@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cors": "^2.8.4",
+    "express": "~4.16.2"
+  }
+}
