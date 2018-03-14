@@ -19,4 +19,11 @@ router.get('/info', authCheck, (req, res) => {
   res.json({ name:  'Administrator', permisions: ['admin']});
 });
 
+//search users (it doesnt go here!!)
+router.post('/search', authCheck, (req, res) => {
+  res.json([{name: 'Gabriel', surname: 'Desimone', age: 26, local: 'Malvinas'},
+{name: 'Cintia', surname: 'Godoy', age: 26, local: 'JCP'}]);
+});
+
+
 module.exports = router;
