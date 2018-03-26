@@ -1,16 +1,13 @@
+const expressjwt = require('express-jwt');
 
-
-const authCheck = (req, res, next) => {
-  if (req.headers.token) {
-    const token = req.headers.token;
-    if (token === 'VALID') next();
-    else {
-    	res.status(401).json({ msg: 'Invalid Token!'});	
+const authCheck = expressjwt({
+  secret: new Buffer('shhh'),
+  getToken: function(req) {
+    if (req.headers && req.headers['token']) {
+      return req.headers['token'];
     }
+    return null;
   }
-  else {
-  	res.status(401).json({ msg: 'Non-provided Token!'});
-  }
-}
+});
 
 module.exports = { authCheck };
