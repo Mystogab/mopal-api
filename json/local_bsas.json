@@ -1,0 +1,10572 @@
+[
+  {
+    "FIELD1": 2701,
+    "FIELD2": "B",
+    "FIELD3": "12 DE AGOSTO "
+  },
+  {
+    "FIELD1": 1657,
+    "FIELD2": "B",
+    "FIELD3": "11 DE SEPTIEMBRE "
+  },
+  {
+    "FIELD1": 6501,
+    "FIELD2": "B",
+    "FIELD3": "12 DE OCTUBRE "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "16 DE JULIO "
+  },
+  {
+    "FIELD1": 8129,
+    "FIELD2": "B",
+    "FIELD3": "17 DE AGOSTO "
+  },
+  {
+    "FIELD1": 1761,
+    "FIELD2": "B",
+    "FIELD3": "20 DE JUNIO "
+  },
+  {
+    "FIELD1": 6660,
+    "FIELD2": "B",
+    "FIELD3": "25 DE MAYO "
+  },
+  {
+    "FIELD1": 6405,
+    "FIELD2": "B",
+    "FIELD3": "30 DE AGOSTO "
+  },
+  {
+    "FIELD1": 2707,
+    "FIELD2": "B",
+    "FIELD3": "4 DE NOVIEMBRE "
+  },
+  {
+    "FIELD1": 1776,
+    "FIELD2": "B",
+    "FIELD3": "9 DE ABRIL "
+  },
+  {
+    "FIELD1": 6500,
+    "FIELD2": "B",
+    "FIELD3": "9 DE JULIO "
+  },
+  {
+    "FIELD1": 1903,
+    "FIELD2": "B",
+    "FIELD3": "ABASTO "
+  },
+  {
+    "FIELD1": 7228,
+    "FIELD2": "B",
+    "FIELD3": "ABBOTT "
+  },
+  {
+    "FIELD1": 6450,
+    "FIELD2": "B",
+    "FIELD3": "ABEL "
+  },
+  {
+    "FIELD1": 8170,
+    "FIELD2": "B",
+    "FIELD3": "ABRA DE HINOJO "
+  },
+  {
+    "FIELD1": 1640,
+    "FIELD2": "B",
+    "FIELD3": "ACASSUSO "
+  },
+  {
+    "FIELD1": 7003,
+    "FIELD2": "B",
+    "FIELD3": "ACEILAN "
+  },
+  {
+    "FIELD1": 2717,
+    "FIELD2": "B",
+    "FIELD3": "ACEVEDO "
+  },
+  {
+    "FIELD1": 6627,
+    "FIELD2": "B",
+    "FIELD3": "ACHUPALLAS "
+  },
+  {
+    "FIELD1": 7136,
+    "FIELD2": "B",
+    "FIELD3": "ADELA "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "ADELA CORTI "
+  },
+  {
+    "FIELD1": 8129,
+    "FIELD2": "B",
+    "FIELD3": "ADELA SAENZ "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "ADOLFO ALSINA "
+  },
+  {
+    "FIELD1": 7513,
+    "FIELD2": "B",
+    "FIELD3": "ADOLFO GONZALES CHAVES "
+  },
+  {
+    "FIELD1": 1846,
+    "FIELD2": "B",
+    "FIELD3": "ADROGUE "
+  },
+  {
+    "FIELD1": 1802,
+    "FIELD2": "B",
+    "FIELD3": "AEROPUERTO EZEIZA "
+  },
+  {
+    "FIELD1": 6608,
+    "FIELD2": "B",
+    "FIELD3": "AGOTE "
+  },
+  {
+    "FIELD1": 8105,
+    "FIELD2": "B",
+    "FIELD3": "AGUARA "
+  },
+  {
+    "FIELD1": 2701,
+    "FIELD2": "B",
+    "FIELD3": "AGUAS CORRIENTES "
+  },
+  {
+    "FIELD1": 7112,
+    "FIELD2": "B",
+    "FIELD3": "AGUAS VERDES "
+  },
+  {
+    "FIELD1": 2915,
+    "FIELD2": "B",
+    "FIELD3": "AGUIRREZABALA "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "AGUSTIN MOSCONI "
+  },
+  {
+    "FIELD1": 6001,
+    "FIELD2": "B",
+    "FIELD3": "AGUSTIN ROCA "
+  },
+  {
+    "FIELD1": 6001,
+    "FIELD2": "B",
+    "FIELD3": "AGUSTINA "
+  },
+  {
+    "FIELD1": 6463,
+    "FIELD2": "B",
+    "FIELD3": "ALAGON "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "ALAMOS "
+  },
+  {
+    "FIELD1": 6703,
+    "FIELD2": "B",
+    "FIELD3": "ALASTUEY "
+  },
+  {
+    "FIELD1": 6405,
+    "FIELD2": "B",
+    "FIELD3": "ALBARIÑO "
+  },
+  {
+    "FIELD1": 6634,
+    "FIELD2": "B",
+    "FIELD3": "ALBERTI "
+  },
+  {
+    "FIELD1": 8126,
+    "FIELD2": "B",
+    "FIELD3": "ALDEA SAN ANDRES "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "ALDECON "
+  },
+  {
+    "FIELD1": 1770,
+    "FIELD2": "B",
+    "FIELD3": "ALDO BONZI "
+  },
+  {
+    "FIELD1": 1987,
+    "FIELD2": "B",
+    "FIELD3": "ALEGRE "
+  },
+  {
+    "FIELD1": 1864,
+    "FIELD2": "B",
+    "FIELD3": "ALEJANDRO KORN "
+  },
+  {
+    "FIELD1": 1808,
+    "FIELD2": "B",
+    "FIELD3": "ALEJANDRO PETION "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "ALFA "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "ALFALAD "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "ALFEREZ SAN MARTIN "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "ALFREDO DEMARCHI "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "ALGARROBO "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "ALGARROBO "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "ALGARROBO "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "ALMACEN CASTRO "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "ALMACEN EL CRUCE "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "ALMACEN EL DESCANSO "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "ALMACEN LA COLINA "
+  },
+  {
+    "FIELD1": 2711,
+    "FIELD2": "B",
+    "FIELD3": "ALMACEN PIATTI "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "ALMIRANTE IRIZAR "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "ALMIRANTE SOLIER "
+  },
+  {
+    "FIELD1": 2938,
+    "FIELD2": "B",
+    "FIELD3": "ALSINA "
+  },
+  {
+    "FIELD1": 8170,
+    "FIELD2": "B",
+    "FIELD3": "ALTA VISTA "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "ALTAMIRA "
+  },
+  {
+    "FIELD1": 1986,
+    "FIELD2": "B",
+    "FIELD3": "ALTAMIRANO "
+  },
+  {
+    "FIELD1": 2814,
+    "FIELD2": "B",
+    "FIELD3": "ALTO LOS CARDALES "
+  },
+  {
+    "FIELD1": 2801,
+    "FIELD2": "B",
+    "FIELD3": "ALTO VERDE "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "ALTONA "
+  },
+  {
+    "FIELD1": 7267,
+    "FIELD2": "B",
+    "FIELD3": "ALVAREZ DE TOLEDO "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "ALVAREZ JONTE "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "ALVARO BARROS "
+  },
+  {
+    "FIELD1": 7021,
+    "FIELD2": "B",
+    "FIELD3": "ALZAGA "
+  },
+  {
+    "FIELD1": 6516,
+    "FIELD2": "B",
+    "FIELD3": "AMALIA "
+  },
+  {
+    "FIELD1": 8508,
+    "FIELD2": "B",
+    "FIELD3": "AMBROSIO P LEZICA "
+  },
+  {
+    "FIELD1": 6237,
+    "FIELD2": "B",
+    "FIELD3": "AMERICA "
+  },
+  {
+    "FIELD1": 1862,
+    "FIELD2": "B",
+    "FIELD3": "AMERICA UNIDA "
+  },
+  {
+    "FIELD1": 6607,
+    "FIELD2": "B",
+    "FIELD3": "ANASAGASTI "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "ANCON "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "ANDANT "
+  },
+  {
+    "FIELD1": 6621,
+    "FIELD2": "B",
+    "FIELD3": "ANDERSON "
+  },
+  {
+    "FIELD1": 6634,
+    "FIELD2": "B",
+    "FIELD3": "ANDRES VACCAREZZA "
+  },
+  {
+    "FIELD1": 7011,
+    "FIELD2": "B",
+    "FIELD3": "ANEQUE GRANDE "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "ANTONIO CARBONI "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "ANTONIO DE LOS HEROS "
+  },
+  {
+    "FIELD1": 8158,
+    "FIELD2": "B",
+    "FIELD3": "APARICIO "
+  },
+  {
+    "FIELD1": 1909,
+    "FIELD2": "B",
+    "FIELD3": "ARANA "
+  },
+  {
+    "FIELD1": 6443,
+    "FIELD2": "B",
+    "FIELD3": "ARANO "
+  },
+  {
+    "FIELD1": 6643,
+    "FIELD2": "B",
+    "FIELD3": "ARAUJO "
+  },
+  {
+    "FIELD1": 6557,
+    "FIELD2": "B",
+    "FIELD3": "ARBOLEDA "
+  },
+  {
+    "FIELD1": 1915,
+    "FIELD2": "B",
+    "FIELD3": "ARBUCO "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "ARENAZA "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "AREVALO "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "ARGERICH "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "ARIEL "
+  },
+  {
+    "FIELD1": 8164,
+    "FIELD2": "B",
+    "FIELD3": "ARQUEDAS "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "ARRECIFES "
+  },
+  {
+    "FIELD1": 6007,
+    "FIELD2": "B",
+    "FIELD3": "ARRIBEÑOS "
+  },
+  {
+    "FIELD1": 8174,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO AGUAS BLANCAS "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO AGUILA NEGRA "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO ALELI "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO BOTIJA FALSA "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO BURGOS "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO CANELON "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO CARABELITAS "
+  },
+  {
+    "FIELD1": 7011,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO CHICO "
+  },
+  {
+    "FIELD1": 8172,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO CORTO "
+  },
+  {
+    "FIELD1": 2813,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO DE LA CRUZ "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO DE LUNA "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO DEL PESCADO "
+  },
+  {
+    "FIELD1": 2743,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO DULCE "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO EL AHOGADO "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO EL CHINGOLO "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO GRANDE "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO LA MAZA "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO LAS CRUCES "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO LAS ROSAS "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO LAS ROSAS "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO LOS HUESOS "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO LOS TIGRES "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO ÑACURUTU "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO ÑACURUTU CHICO "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO NEGRO "
+  },
+  {
+    "FIELD1": 8111,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO PAREJA "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO PESQUERIA "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO TAJIBER "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO VENADO "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "ARROYO ZANJON "
+  },
+  {
+    "FIELD1": 1895,
+    "FIELD2": "B",
+    "FIELD3": "ARTURO SEGUI "
+  },
+  {
+    "FIELD1": 6433,
+    "FIELD2": "B",
+    "FIELD3": "ARTURO VATTEONE "
+  },
+  {
+    "FIELD1": 6640,
+    "FIELD2": "B",
+    "FIELD3": "ASAMBLEA "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "ASCENCION "
+  },
+  {
+    "FIELD1": 6469,
+    "FIELD2": "B",
+    "FIELD3": "ASTURIAS "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "ATAHUALPA "
+  },
+  {
+    "FIELD1": 1913,
+    "FIELD2": "B",
+    "FIELD3": "ATALAYA "
+  },
+  {
+    "FIELD1": 2808,
+    "FIELD2": "B",
+    "FIELD3": "ATUCHA "
+  },
+  {
+    "FIELD1": 1870,
+    "FIELD2": "B",
+    "FIELD3": "AVELLANEDA "
+  },
+  {
+    "FIELD1": 8183,
+    "FIELD2": "B",
+    "FIELD3": "AVESTRUZ "
+  },
+  {
+    "FIELD1": 7150,
+    "FIELD2": "B",
+    "FIELD3": "AYACUCHO "
+  },
+  {
+    "FIELD1": 6721,
+    "FIELD2": "B",
+    "FIELD3": "AZCUENAGA "
+  },
+  {
+    "FIELD1": 8181,
+    "FIELD2": "B",
+    "FIELD3": "AZOPARDO "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "AZUL "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "B LOS AROMOS SAN PATRICIO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "B NUESTRA SEÑORA DE LA PAZ "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "B SARMIENTO DON ROLANDO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "B STA CATALINA HORNERO LA LOMA "
+  },
+  {
+    "FIELD1": 6516,
+    "FIELD2": "B",
+    "FIELD3": "BACACAY "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "BADANO "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "BAHIA BLANCA "
+  },
+  {
+    "FIELD1": 8506,
+    "FIELD2": "B",
+    "FIELD3": "BAHIA SAN BLAS "
+  },
+  {
+    "FIELD1": 6013,
+    "FIELD2": "B",
+    "FIELD3": "BAIGORRITA "
+  },
+  {
+    "FIELD1": 8115,
+    "FIELD2": "B",
+    "FIELD3": "BAJO HONDO "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "BALCARCE "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO ATLANTIDA "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO CAMET NORTE "
+  },
+  {
+    "FIELD1": 8132,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO CHAPALCO "
+  },
+  {
+    "FIELD1": 7505,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO CLAROMECO "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO FRENTE MAR "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO LA BALIZA "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO LA CALETA "
+  },
+  {
+    "FIELD1": 7641,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO LOS ANGELES "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO MAR CHIQUITA "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO MAR DE COBO "
+  },
+  {
+    "FIELD1": 7511,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO OCEANO "
+  },
+  {
+    "FIELD1": 7511,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO ORENSE "
+  },
+  {
+    "FIELD1": 8153,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO ORIENTE "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO PARADA "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO PLAYA DORADA "
+  },
+  {
+    "FIELD1": 8132,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO SAN ANTONIO "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO SANTA ELENA "
+  },
+  {
+    "FIELD1": 8153,
+    "FIELD2": "B",
+    "FIELD3": "BALNEARIO SAUCE GRANDE "
+  },
+  {
+    "FIELD1": 6070,
+    "FIELD2": "B",
+    "FIELD3": "BALSA "
+  },
+  {
+    "FIELD1": 6244,
+    "FIELD2": "B",
+    "FIELD3": "BANDERALO "
+  },
+  {
+    "FIELD1": 1828,
+    "FIELD2": "B",
+    "FIELD3": "BANFIELD "
+  },
+  {
+    "FIELD1": 2942,
+    "FIELD2": "B",
+    "FIELD3": "BARADERO "
+  },
+  {
+    "FIELD1": 7005,
+    "FIELD2": "B",
+    "FIELD3": "BARKER "
+  },
+  {
+    "FIELD1": 7247,
+    "FIELD2": "B",
+    "FIELD3": "BARRIENTOS "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO 1 DE MAYO "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO BATAN "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO CAROSIO "
+  },
+  {
+    "FIELD1": 7605,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO CHAPADMALAL "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO EL CAZADOR "
+  },
+  {
+    "FIELD1": 1915,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO EL PORTEÑO "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO EMIR RAMON JUAREZ "
+  },
+  {
+    "FIELD1": 1623,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO GARIN NORTE "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO GASTRONOMICO "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO GENERAL SAN MARTIN "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO INDIO TROMPA "
+  },
+  {
+    "FIELD1": 6500,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO JULIO DE VEDIA "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO LA DOLLY "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO LA LUISA "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO LAS MANDARINAS "
+  },
+  {
+    "FIELD1": 6450,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO OBRERO "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO OESTE "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO PARQUE BRISTOL "
+  },
+  {
+    "FIELD1": 1623,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO PARQUE LAMBARE "
+  },
+  {
+    "FIELD1": 1713,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO PARQUE LELOIR "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO PEDRO ROCCO "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO PUEBLO NUEVO "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO SAN ALEJO "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO SAN JACINTO "
+  },
+  {
+    "FIELD1": 1862,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO SAN PABLO "
+  },
+  {
+    "FIELD1": 1862,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO SANTA MAGDALENA "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO TIERRA DE ORO "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO TIRO FEDERAL "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO TROCHA "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO VILLA ORTEGA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "BARRIO VILLA SALADILLO "
+  },
+  {
+    "FIELD1": 8107,
+    "FIELD2": "B",
+    "FIELD3": "BASE AERONAVAL CMTE ESPORA "
+  },
+  {
+    "FIELD1": 1919,
+    "FIELD2": "B",
+    "FIELD3": "BASE AERONAVAL PUNTA INDIO "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "BASE NAVAL AZOPARDO "
+  },
+  {
+    "FIELD1": 1929,
+    "FIELD2": "B",
+    "FIELD3": "BASE NAVAL RIO SANTIAGO "
+  },
+  {
+    "FIELD1": 8113,
+    "FIELD2": "B",
+    "FIELD3": "BATERIAS "
+  },
+  {
+    "FIELD1": 7540,
+    "FIELD2": "B",
+    "FIELD3": "BATHURST ESTACION "
+  },
+  {
+    "FIELD1": 6643,
+    "FIELD2": "B",
+    "FIELD3": "BAUDRIX "
+  },
+  {
+    "FIELD1": 6078,
+    "FIELD2": "B",
+    "FIELD3": "BAYAUCA "
+  },
+  {
+    "FIELD1": 1643,
+    "FIELD2": "B",
+    "FIELD3": "BECCAR "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "BELEN DE ESCOBAR "
+  },
+  {
+    "FIELD1": 1661,
+    "FIELD2": "B",
+    "FIELD3": "BELLA VISTA "
+  },
+  {
+    "FIELD1": 6535,
+    "FIELD2": "B",
+    "FIELD3": "BELLOCQ "
+  },
+  {
+    "FIELD1": 1621,
+    "FIELD2": "B",
+    "FIELD3": "BENAVIDEZ "
+  },
+  {
+    "FIELD1": 6632,
+    "FIELD2": "B",
+    "FIELD3": "BENITEZ "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "BENITO JUAREZ "
+  },
+  {
+    "FIELD1": 1884,
+    "FIELD2": "B",
+    "FIELD3": "BERAZATEGUI "
+  },
+  {
+    "FIELD1": 2743,
+    "FIELD2": "B",
+    "FIELD3": "BERDIER "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "BERISSO "
+  },
+  {
+    "FIELD1": 6071,
+    "FIELD2": "B",
+    "FIELD3": "BERMUDEZ "
+  },
+  {
+    "FIELD1": 1876,
+    "FIELD2": "B",
+    "FIELD3": "BERNAL ESTE "
+  },
+  {
+    "FIELD1": 1876,
+    "FIELD2": "B",
+    "FIELD3": "BERNAL OESTE "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "BERNARDO VERA Y PINTADO "
+  },
+  {
+    "FIELD1": 8124,
+    "FIELD2": "B",
+    "FIELD3": "BERRAONDO "
+  },
+  {
+    "FIELD1": 6424,
+    "FIELD2": "B",
+    "FIELD3": "BERUTI "
+  },
+  {
+    "FIELD1": 6561,
+    "FIELD2": "B",
+    "FIELD3": "BLANCA GRANDE "
+  },
+  {
+    "FIELD1": 6032,
+    "FIELD2": "B",
+    "FIELD3": "BLANDENGUES "
+  },
+  {
+    "FIELD1": 6065,
+    "FIELD2": "B",
+    "FIELD3": "BLAQUIER "
+  },
+  {
+    "FIELD1": 6661,
+    "FIELD2": "B",
+    "FIELD3": "BLAS DURAÑONA "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "BLONDEAU "
+  },
+  {
+    "FIELD1": 1911,
+    "FIELD2": "B",
+    "FIELD3": "BME BAVIO GRAL MANSILLA "
+  },
+  {
+    "FIELD1": 6348,
+    "FIELD2": "B",
+    "FIELD3": "BOCAYUBA "
+  },
+  {
+    "FIELD1": 6550,
+    "FIELD2": "B",
+    "FIELD3": "BOLIVAR "
+  },
+  {
+    "FIELD1": 6439,
+    "FIELD2": "B",
+    "FIELD3": "BONIFACIO "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "BONNEMENT "
+  },
+  {
+    "FIELD1": 8187,
+    "FIELD2": "B",
+    "FIELD3": "BORDENAVE "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "BOSCH "
+  },
+  {
+    "FIELD1": 1889,
+    "FIELD2": "B",
+    "FIELD3": "BOSQUES "
+  },
+  {
+    "FIELD1": 1609,
+    "FIELD2": "B",
+    "FIELD3": "BOULOGNE "
+  },
+  {
+    "FIELD1": 6640,
+    "FIELD2": "B",
+    "FIELD3": "BRAGADO "
+  },
+  {
+    "FIELD1": 6411,
+    "FIELD2": "B",
+    "FIELD3": "BRAVO DEL DOS "
+  },
+  {
+    "FIELD1": 1903,
+    "FIELD2": "B",
+    "FIELD3": "BUCHANAN "
+  },
+  {
+    "FIELD1": 1852,
+    "FIELD2": "B",
+    "FIELD3": "BURZACO "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "CABEZA DE BUEY "
+  },
+  {
+    "FIELD1": 8118,
+    "FIELD2": "B",
+    "FIELD3": "CABILDO "
+  },
+  {
+    "FIELD1": 2703,
+    "FIELD2": "B",
+    "FIELD3": "CABO SAN FERMIN "
+  },
+  {
+    "FIELD1": 7214,
+    "FIELD2": "B",
+    "FIELD3": "CACHARI "
+  },
+  {
+    "FIELD1": 6535,
+    "FIELD2": "B",
+    "FIELD3": "CADRET "
+  },
+  {
+    "FIELD1": 6339,
+    "FIELD2": "B",
+    "FIELD3": "CAILOMUTA "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "CALDERON "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "CALERA AVELLANEDA "
+  },
+  {
+    "FIELD1": 7613,
+    "FIELD2": "B",
+    "FIELD3": "CALFUCURA "
+  },
+  {
+    "FIELD1": 8154,
+    "FIELD2": "B",
+    "FIELD3": "CALVO "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "CAMARON CHICO "
+  },
+  {
+    "FIELD1": 6516,
+    "FIELD2": "B",
+    "FIELD3": "CAMBACERES "
+  },
+  {
+    "FIELD1": 7612,
+    "FIELD2": "B",
+    "FIELD3": "CAMET "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "CAMINERA AZUL "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "CAMINERA JUAREZ "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "CAMINERA LUJAN "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "CAMINERA NAPALEOFU "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "CAMINERA SAMBOROMBON "
+  },
+  {
+    "FIELD1": 1896,
+    "FIELD2": "B",
+    "FIELD3": "CAMINO CENTENARIO KM 11500 "
+  },
+  {
+    "FIELD1": 7613,
+    "FIELD2": "B",
+    "FIELD3": "CAMPAMENTO "
+  },
+  {
+    "FIELD1": 2804,
+    "FIELD2": "B",
+    "FIELD3": "CAMPANA "
+  },
+  {
+    "FIELD1": 6474,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO ARISTIMUÑO "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO BUENA VISTA "
+  },
+  {
+    "FIELD1": 6015,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO COLIQUEO "
+  },
+  {
+    "FIELD1": 2754,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO CRISOL "
+  },
+  {
+    "FIELD1": 1659,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO DE MAYO "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO DEL NORTE AMERICANO "
+  },
+  {
+    "FIELD1": 7247,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO FUNKE "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LA ELISA "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LA LIMA "
+  },
+  {
+    "FIELD1": 2764,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LA NENA "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LA PLATA "
+  },
+  {
+    "FIELD1": 6015,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LA TRIBU "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LA ZULEMA "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LEITE "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LOPE SECO "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO LOS AROMOS "
+  },
+  {
+    "FIELD1": 6013,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO MAIPU "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO PELAEZ "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO PEÑA LOPEZ "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO ROJAS "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO SABATE "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "CAMPO SAN JUAN "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "CAMPODONICO "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "CAMPOMAR VIÑEDO "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "CAÑADA DE ARIAS "
+  },
+  {
+    "FIELD1": 6625,
+    "FIELD2": "B",
+    "FIELD3": "CAÑADA LA RICA "
+  },
+  {
+    "FIELD1": 8183,
+    "FIELD2": "B",
+    "FIELD3": "CAÑADA MARIANO "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "CAÑADA MARTA "
+  },
+  {
+    "FIELD1": 6105,
+    "FIELD2": "B",
+    "FIELD3": "CAÑADA SECA "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "CANAL 15 CERRO DE LA GLORIA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "CANAL MARTIN IRIGOYEN "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "CANAL N ALEM 1A SEC "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "CANAL N ALEM 2A SEC "
+  },
+  {
+    "FIELD1": 1987,
+    "FIELD2": "B",
+    "FIELD3": "CANCHA DEL POLLO "
+  },
+  {
+    "FIELD1": 7153,
+    "FIELD2": "B",
+    "FIELD3": "CANGALLO "
+  },
+  {
+    "FIELD1": 1804,
+    "FIELD2": "B",
+    "FIELD3": "CANNING "
+  },
+  {
+    "FIELD1": 1804,
+    "FIELD2": "B",
+    "FIELD3": "CANNING "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "CANONIGO GORRITI "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA AGUIRRE "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA ALBION "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA LA AURORA "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA LA FEDERACION "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA LA MOVEDIZA "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA MONTE CRISTO "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA SAN LUIS "
+  },
+  {
+    "FIELD1": 8504,
+    "FIELD2": "B",
+    "FIELD3": "CANTERA VILLALONGA "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "CANTERAS DE GREGORINI "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "CAÑUELAS "
+  },
+  {
+    "FIELD1": 6612,
+    "FIELD2": "B",
+    "FIELD3": "CAPDEPONT "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "CAPILLA DEL SEÑOR "
+  },
+  {
+    "FIELD1": 6461,
+    "FIELD2": "B",
+    "FIELD3": "CAPITAN CASTRO "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "CAPITAN SARMIENTO "
+  },
+  {
+    "FIELD1": 2703,
+    "FIELD2": "B",
+    "FIELD3": "CARABELAS "
+  },
+  {
+    "FIELD1": 1605,
+    "FIELD2": "B",
+    "FIELD3": "CARAPACHAY "
+  },
+  {
+    "FIELD1": 8506,
+    "FIELD2": "B",
+    "FIELD3": "CARDENAL CAGLIERO "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "CARHUE "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "CARI LARQUEA "
+  },
+  {
+    "FIELD1": 7167,
+    "FIELD2": "B",
+    "FIELD3": "CARILO "
+  },
+  {
+    "FIELD1": 7247,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS BEGUERIE "
+  },
+  {
+    "FIELD1": 6530,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS CASARES "
+  },
+  {
+    "FIELD1": 6701,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS KEEN "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS LEMEE "
+  },
+  {
+    "FIELD1": 6515,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS MARIA NAON "
+  },
+  {
+    "FIELD1": 6453,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS SALAS "
+  },
+  {
+    "FIELD1": 1812,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS SPEGAZZINI "
+  },
+  {
+    "FIELD1": 6455,
+    "FIELD2": "B",
+    "FIELD3": "CARLOS TEJEDOR "
+  },
+  {
+    "FIELD1": 6725,
+    "FIELD2": "B",
+    "FIELD3": "CARMEN DE ARECO "
+  },
+  {
+    "FIELD1": 8504,
+    "FIELD2": "B",
+    "FIELD3": "CARMEN DE PATAGONES "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "CASALINS "
+  },
+  {
+    "FIELD1": 6417,
+    "FIELD2": "B",
+    "FIELD3": "CASBAS "
+  },
+  {
+    "FIELD1": 7547,
+    "FIELD2": "B",
+    "FIELD3": "CASCADA "
+  },
+  {
+    "FIELD1": 1678,
+    "FIELD2": "B",
+    "FIELD3": "CASEROS "
+  },
+  {
+    "FIELD1": 6417,
+    "FIELD2": "B",
+    "FIELD3": "CASEY "
+  },
+  {
+    "FIELD1": 1712,
+    "FIELD2": "B",
+    "FIELD3": "CASTELAR "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "CASTELLI "
+  },
+  {
+    "FIELD1": 6616,
+    "FIELD2": "B",
+    "FIELD3": "CASTILLA "
+  },
+  {
+    "FIELD1": 7265,
+    "FIELD2": "B",
+    "FIELD3": "CAZON "
+  },
+  {
+    "FIELD1": 6535,
+    "FIELD2": "B",
+    "FIELD3": "CENTENARIO "
+  },
+  {
+    "FIELD1": 1893,
+    "FIELD2": "B",
+    "FIELD3": "CENTRO AGRICOLA EL PATO "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "CENTRO GUERRERO "
+  },
+  {
+    "FIELD1": 6237,
+    "FIELD2": "B",
+    "FIELD3": "CERRITO "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "CERRO AGUILA "
+  },
+  {
+    "FIELD1": 7101,
+    "FIELD2": "B",
+    "FIELD3": "CERRO DE LA GLORIA CANAL 15 "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "CERRO DE LOS LEONES "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "CERRO NEGRO "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "CERRO SOTUYO "
+  },
+  {
+    "FIELD1": 6740,
+    "FIELD2": "B",
+    "FIELD3": "CHACABUCO "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "CHACRA EXPERIMENTAL INTA "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "CHALA QUILCA "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "CHANCAY "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "CHAPALEUFU "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "CHAPAR "
+  },
+  {
+    "FIELD1": 6341,
+    "FIELD2": "B",
+    "FIELD3": "CHAPI TALO "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "CHAS "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "CHASCOMUS "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "CHASICO "
+  },
+  {
+    "FIELD1": 2764,
+    "FIELD2": "B",
+    "FIELD3": "CHENAUT "
+  },
+  {
+    "FIELD1": 6476,
+    "FIELD2": "B",
+    "FIELD3": "CHICLANA "
+  },
+  {
+    "FIELD1": 7311,
+    "FIELD2": "B",
+    "FIELD3": "CHILLAR "
+  },
+  {
+    "FIELD1": 6620,
+    "FIELD2": "B",
+    "FIELD3": "CHIVILCOY "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "CHOIQUE "
+  },
+  {
+    "FIELD1": 1657,
+    "FIELD2": "B",
+    "FIELD3": "CHURRUCA "
+  },
+  {
+    "FIELD1": 1896,
+    "FIELD2": "B",
+    "FIELD3": "CITY BELL "
+  },
+  {
+    "FIELD1": 1778,
+    "FIELD2": "B",
+    "FIELD3": "CIUDAD EVITA "
+  },
+  {
+    "FIELD1": 1684,
+    "FIELD2": "B",
+    "FIELD3": "CIUDAD JARDIN DEL PALOMAR "
+  },
+  {
+    "FIELD1": 1768,
+    "FIELD2": "B",
+    "FIELD3": "CIUDAD MADERO "
+  },
+  {
+    "FIELD1": 1702,
+    "FIELD2": "B",
+    "FIELD3": "CIUDADELA "
+  },
+  {
+    "FIELD1": 7005,
+    "FIELD2": "B",
+    "FIELD3": "CLARAZ "
+  },
+  {
+    "FIELD1": 7515,
+    "FIELD2": "B",
+    "FIELD3": "CLAUDIO C MOLINA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "CLAVERIE "
+  },
+  {
+    "FIELD1": 1849,
+    "FIELD2": "B",
+    "FIELD3": "CLAYPOLE "
+  },
+  {
+    "FIELD1": 7612,
+    "FIELD2": "B",
+    "FIELD3": "COBO "
+  },
+  {
+    "FIELD1": 8118,
+    "FIELD2": "B",
+    "FIELD3": "COCHRANE "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "COLEGIO SAN PABLO "
+  },
+  {
+    "FIELD1": 6743,
+    "FIELD2": "B",
+    "FIELD3": "COLIQUEO "
+  },
+  {
+    "FIELD1": 7201,
+    "FIELD2": "B",
+    "FIELD3": "COLMAN "
+  },
+  {
+    "FIELD1": 2720,
+    "FIELD2": "B",
+    "FIELD3": "COLON "
+  },
+  {
+    "FIELD1": 6034,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA ALBERDI "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA BARGA "
+  },
+  {
+    "FIELD1": 6441,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA BARON HIRSCH "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA BEETHOVEN "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA BELLA VISTA "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA CUARENTA Y TRES "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA DE VAC CHAPADMALAL "
+  },
+  {
+    "FIELD1": 8180,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA DR GDOR UDAONDO "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA EL BALDE "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA EL GUANACO "
+  },
+  {
+    "FIELD1": 8181,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA EL PINCEN "
+  },
+  {
+    "FIELD1": 7136,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA ESCUELA ARGENTINA "
+  },
+  {
+    "FIELD1": 7172,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA FERRARI "
+  },
+  {
+    "FIELD1": 7318,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA HINOJO "
+  },
+  {
+    "FIELD1": 8181,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA HIPOLITO YRIGOYEN "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA HOGAR R GUTIERREZ "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA INCHAUSTI "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA BEBA "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA CATALINA "
+  },
+  {
+    "FIELD1": 8508,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA CELINA "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA ESPERANZA "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA ESTRELLA "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA GRACIELA "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA INVERNADA "
+  },
+  {
+    "FIELD1": 8105,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA MERCED "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA NENA "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA NORIA "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA REINA "
+  },
+  {
+    "FIELD1": 2711,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA VANGUARDIA "
+  },
+  {
+    "FIELD1": 8183,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LA VASCONGADA "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LABORDEROY "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LAPIN "
+  },
+  {
+    "FIELD1": 6513,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LAS YESCAS "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LEVEN "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS ALAMOS "
+  },
+  {
+    "FIELD1": 8132,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS ALFALFARES "
+  },
+  {
+    "FIELD1": 6018,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS BOSQUES "
+  },
+  {
+    "FIELD1": 6007,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS HORNOS "
+  },
+  {
+    "FIELD1": 6018,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS HUESOS "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS TOLDOS "
+  },
+  {
+    "FIELD1": 2760,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA LOS TRES USARIS "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA MAURICIO "
+  },
+  {
+    "FIELD1": 8508,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA MIGUEL ESTEVERENA "
+  },
+  {
+    "FIELD1": 8144,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA MONTE LA PLATA "
+  },
+  {
+    "FIELD1": 6341,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA MURATURE "
+  },
+  {
+    "FIELD1": 6708,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA NAC DE ALIENADOS "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA NACIONAL DE MENORES "
+  },
+  {
+    "FIELD1": 6341,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA NAVIERA "
+  },
+  {
+    "FIELD1": 7318,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA NIEVES "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA OCAMPO "
+  },
+  {
+    "FIELD1": 6643,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA PALANTELEN "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA PHILLIPSON N 1 "
+  },
+  {
+    "FIELD1": 8144,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA PUEBLO RUSO "
+  },
+  {
+    "FIELD1": 7318,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA RUSA "
+  },
+  {
+    "FIELD1": 6646,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN EDUARDO "
+  },
+  {
+    "FIELD1": 8132,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN ENRIQUE "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN FRANCISCO "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN FRANCISCO "
+  },
+  {
+    "FIELD1": 8164,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN MARTIN "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN MIGUEL "
+  },
+  {
+    "FIELD1": 8164,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN PEDRO "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SAN RAMON "
+  },
+  {
+    "FIELD1": 6535,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SANTA MARIA "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SANTA MARIANA "
+  },
+  {
+    "FIELD1": 1816,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SANTA ROSA "
+  },
+  {
+    "FIELD1": 8181,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SANTA ROSA "
+  },
+  {
+    "FIELD1": 6459,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA SERE "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA STEGMAN "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA TAPATTA "
+  },
+  {
+    "FIELD1": 2933,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA VELEZ "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "COLONIA ZAMBUNGO "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "COMAHUE OESTE "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "COMANDANTE GIRIBONE "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "COMANDANTE NICANOR OTAMENDI "
+  },
+  {
+    "FIELD1": 6641,
+    "FIELD2": "B",
+    "FIELD3": "COMODORO PY "
+  },
+  {
+    "FIELD1": 6233,
+    "FIELD2": "B",
+    "FIELD3": "CONDARCO "
+  },
+  {
+    "FIELD1": 7639,
+    "FIELD2": "B",
+    "FIELD3": "COOPER "
+  },
+  {
+    "FIELD1": 7511,
+    "FIELD2": "B",
+    "FIELD3": "COPETONAS "
+  },
+  {
+    "FIELD1": 6465,
+    "FIELD2": "B",
+    "FIELD3": "CORACEROS "
+  },
+  {
+    "FIELD1": 6405,
+    "FIELD2": "B",
+    "FIELD3": "CORAZZI "
+  },
+  {
+    "FIELD1": 6507,
+    "FIELD2": "B",
+    "FIELD3": "CORBETT "
+  },
+  {
+    "FIELD1": 7208,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL BOERR "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL BRANDSEN "
+  },
+  {
+    "FIELD1": 6223,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL CHARLONE "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL DORREGO "
+  },
+  {
+    "FIELD1": 8118,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL FALCON "
+  },
+  {
+    "FIELD1": 6062,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL GRANADA "
+  },
+  {
+    "FIELD1": 2747,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL ISLEÑOS "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL MARCELINO FREYRE "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL MON "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL PRINGLES "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL RODOLFO BUNGE "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL SEGUI "
+  },
+  {
+    "FIELD1": 7540,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL SUAREZ "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "CORONEL VIDAL "
+  },
+  {
+    "FIELD1": 8118,
+    "FIELD2": "B",
+    "FIELD3": "CORTI "
+  },
+  {
+    "FIELD1": 6712,
+    "FIELD2": "B",
+    "FIELD3": "CORTINES "
+  },
+  {
+    "FIELD1": 7112,
+    "FIELD2": "B",
+    "FIELD3": "COSTA AZUL "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "COSTA BONITA BALNEARIO "
+  },
+  {
+    "FIELD1": 2914,
+    "FIELD2": "B",
+    "FIELD3": "COSTA BRAVA "
+  },
+  {
+    "FIELD1": 7108,
+    "FIELD2": "B",
+    "FIELD3": "COSTA DEL ESTE "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "COVELLO "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "CRISTIANO MUERTO "
+  },
+  {
+    "FIELD1": 1913,
+    "FIELD2": "B",
+    "FIELD3": "CRISTINO BENAVIDEZ "
+  },
+  {
+    "FIELD1": 7307,
+    "FIELD2": "B",
+    "FIELD3": "CROTTO "
+  },
+  {
+    "FIELD1": 1870,
+    "FIELD2": "B",
+    "FIELD3": "CRUCESITA "
+  },
+  {
+    "FIELD1": 1987,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL 2 "
+  },
+  {
+    "FIELD1": 7136,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL 6 "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL 8 "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL CUATRO "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL II "
+  },
+  {
+    "FIELD1": 6032,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL IV "
+  },
+  {
+    "FIELD1": 7110,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL IV "
+  },
+  {
+    "FIELD1": 1744,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL V "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL V "
+  },
+  {
+    "FIELD1": 6050,
+    "FIELD2": "B",
+    "FIELD3": "CUARTEL VII "
+  },
+  {
+    "FIELD1": 6746,
+    "FIELD2": "B",
+    "FIELD3": "CUCHA CUCHA "
+  },
+  {
+    "FIELD1": 6723,
+    "FIELD2": "B",
+    "FIELD3": "CUCULLU "
+  },
+  {
+    "FIELD1": 6231,
+    "FIELD2": "B",
+    "FIELD3": "CUENCA "
+  },
+  {
+    "FIELD1": 7548,
+    "FIELD2": "B",
+    "FIELD3": "CURA MALAL "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "CURARU "
+  },
+  {
+    "FIELD1": 7541,
+    "FIELD2": "B",
+    "FIELD3": "D ORBIGNY "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "DAIREAUX "
+  },
+  {
+    "FIELD1": 1987,
+    "FIELD2": "B",
+    "FIELD3": "DANTAS "
+  },
+  {
+    "FIELD1": 8183,
+    "FIELD2": "B",
+    "FIELD3": "DARREGUEIRA "
+  },
+  {
+    "FIELD1": 6348,
+    "FIELD2": "B",
+    "FIELD3": "DE BARY "
+  },
+  {
+    "FIELD1": 6031,
+    "FIELD2": "B",
+    "FIELD3": "DE BRUYN "
+  },
+  {
+    "FIELD1": 7013,
+    "FIELD2": "B",
+    "FIELD3": "DE LA CANAL "
+  },
+  {
+    "FIELD1": 7515,
+    "FIELD2": "B",
+    "FIELD3": "DE LA GARMA "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "DEFERRARI "
+  },
+  {
+    "FIELD1": 7265,
+    "FIELD2": "B",
+    "FIELD3": "DEL CARRIL "
+  },
+  {
+    "FIELD1": 6509,
+    "FIELD2": "B",
+    "FIELD3": "DEL VALLE "
+  },
+  {
+    "FIELD1": 1669,
+    "FIELD2": "B",
+    "FIELD3": "DEL VISO "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "DELFIN HUERGO "
+  },
+  {
+    "FIELD1": 6007,
+    "FIELD2": "B",
+    "FIELD3": "DELGADO "
+  },
+  {
+    "FIELD1": 6516,
+    "FIELD2": "B",
+    "FIELD3": "DENNEHY "
+  },
+  {
+    "FIELD1": 7531,
+    "FIELD2": "B",
+    "FIELD3": "DESPEÑADEROS "
+  },
+  {
+    "FIELD1": 1925,
+    "FIELD2": "B",
+    "FIELD3": "DESTILERIA FISCAL "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO AGUIRRE "
+  },
+  {
+    "FIELD1": 6031,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO EL CHINGOLO "
+  },
+  {
+    "FIELD1": 6509,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO GARBARINI "
+  },
+  {
+    "FIELD1": 6503,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO KILOMETRO 234 "
+  },
+  {
+    "FIELD1": 1981,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO KILOMETRO 55 "
+  },
+  {
+    "FIELD1": 6007,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO KILOMETRO 95 "
+  },
+  {
+    "FIELD1": 8180,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO SAN ALEJO "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "DESVIO SANDRINI "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "DIEGO GAYNOR "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "DIONISIA "
+  },
+  {
+    "FIELD1": 1623,
+    "FIELD2": "B",
+    "FIELD3": "DIQUE LUJAN "
+  },
+  {
+    "FIELD1": 1925,
+    "FIELD2": "B",
+    "FIELD3": "DOCK CENTRAL "
+  },
+  {
+    "FIELD1": 1871,
+    "FIELD2": "B",
+    "FIELD3": "DOCK SUD "
+  },
+  {
+    "FIELD1": 6708,
+    "FIELD2": "B",
+    "FIELD3": "DOCTOR DOMINGO CABRED "
+  },
+  {
+    "FIELD1": 7212,
+    "FIELD2": "B",
+    "FIELD3": "DOCTOR DOMINGO HAROSTEGUY "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "DOLORES "
+  },
+  {
+    "FIELD1": 1984,
+    "FIELD2": "B",
+    "FIELD3": "DOMSELAAR "
+  },
+  {
+    "FIELD1": 1876,
+    "FIELD2": "B",
+    "FIELD3": "DON BOSCO "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "DON CIPRIANO "
+  },
+  {
+    "FIELD1": 1611,
+    "FIELD2": "B",
+    "FIELD3": "DON TORCUATO "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "DON VICENTE "
+  },
+  {
+    "FIELD1": 6042,
+    "FIELD2": "B",
+    "FIELD3": "DOS HERMANOS "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "DOS NACIONES "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "DOYHENARD "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "DOYLE "
+  },
+  {
+    "FIELD1": 6242,
+    "FIELD2": "B",
+    "FIELD3": "DRABBLE "
+  },
+  {
+    "FIELD1": 6455,
+    "FIELD2": "B",
+    "FIELD3": "DRYSDALE "
+  },
+  {
+    "FIELD1": 8170,
+    "FIELD2": "B",
+    "FIELD3": "DUCOS "
+  },
+  {
+    "FIELD1": 6505,
+    "FIELD2": "B",
+    "FIELD3": "DUDIGNAC "
+  },
+  {
+    "FIELD1": 8164,
+    "FIELD2": "B",
+    "FIELD3": "DUFAUR "
+  },
+  {
+    "FIELD1": 2764,
+    "FIELD2": "B",
+    "FIELD3": "DUGGAN "
+  },
+  {
+    "FIELD1": 6405,
+    "FIELD2": "B",
+    "FIELD3": "DUHAU "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "DURAÑONA "
+  },
+  {
+    "FIELD1": 6050,
+    "FIELD2": "B",
+    "FIELD3": "DUSSAUD "
+  },
+  {
+    "FIELD1": 6030,
+    "FIELD2": "B",
+    "FIELD3": "EDMUNDO PERKINS "
+  },
+  {
+    "FIELD1": 6064,
+    "FIELD2": "B",
+    "FIELD3": "EDUARDO COSTA "
+  },
+  {
+    "FIELD1": 7013,
+    "FIELD2": "B",
+    "FIELD3": "EGAÑA "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "EL 60 "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "EL ALBA "
+  },
+  {
+    "FIELD1": 7249,
+    "FIELD2": "B",
+    "FIELD3": "EL ARAZA "
+  },
+  {
+    "FIELD1": 2721,
+    "FIELD2": "B",
+    "FIELD3": "EL ARBOLITO "
+  },
+  {
+    "FIELD1": 8504,
+    "FIELD2": "B",
+    "FIELD3": "EL BAGUAL "
+  },
+  {
+    "FIELD1": 7507,
+    "FIELD2": "B",
+    "FIELD3": "EL BOMBERO "
+  },
+  {
+    "FIELD1": 7150,
+    "FIELD2": "B",
+    "FIELD3": "EL BOQUERON "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "EL BOQUERON "
+  },
+  {
+    "FIELD1": 6537,
+    "FIELD2": "B",
+    "FIELD3": "EL CAMOATI "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "EL CARBON "
+  },
+  {
+    "FIELD1": 2754,
+    "FIELD2": "B",
+    "FIELD3": "EL CARMEN "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "EL CARMEN DE LANGUEYU "
+  },
+  {
+    "FIELD1": 6537,
+    "FIELD2": "B",
+    "FIELD3": "EL CARPINCHO "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "EL CARRETERO "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "EL CENTINELA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "EL CHAJA "
+  },
+  {
+    "FIELD1": 7201,
+    "FIELD2": "B",
+    "FIELD3": "EL CHALAR "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "EL CHEIQUE "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "EL CHELFORO "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "EL CHUMBEAU "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "EL CORTAPIE "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "EL CRISTIANO "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "EL CRUCE "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "EL DESCANSO "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "EL DESTINO "
+  },
+  {
+    "FIELD1": 6241,
+    "FIELD2": "B",
+    "FIELD3": "EL DIA "
+  },
+  {
+    "FIELD1": 7531,
+    "FIELD2": "B",
+    "FIELD3": "EL DIVISORIO "
+  },
+  {
+    "FIELD1": 6031,
+    "FIELD2": "B",
+    "FIELD3": "EL DORADO "
+  },
+  {
+    "FIELD1": 1735,
+    "FIELD2": "B",
+    "FIELD3": "EL DURAZNO "
+  },
+  {
+    "FIELD1": 2946,
+    "FIELD2": "B",
+    "FIELD3": "EL ESPINILLO "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "EL EUCALIPTUS "
+  },
+  {
+    "FIELD1": 2804,
+    "FIELD2": "B",
+    "FIELD3": "EL FENIX "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "EL GALLO "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "EL GAVILAN "
+  },
+  {
+    "FIELD1": 7200,
+    "FIELD2": "B",
+    "FIELD3": "EL GUALICHO "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "EL HERVIDERO "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "EL JABALI "
+  },
+  {
+    "FIELD1": 1842,
+    "FIELD2": "B",
+    "FIELD3": "EL JAGUEL "
+  },
+  {
+    "FIELD1": 2707,
+    "FIELD2": "B",
+    "FIELD3": "EL JAGUEL "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "EL JUNCO "
+  },
+  {
+    "FIELD1": 2916,
+    "FIELD2": "B",
+    "FIELD3": "EL JUPITER "
+  },
+  {
+    "FIELD1": 7635,
+    "FIELD2": "B",
+    "FIELD3": "EL LENGUARAZ "
+  },
+  {
+    "FIELD1": 1657,
+    "FIELD2": "B",
+    "FIELD3": "EL LIBERTADOR "
+  },
+  {
+    "FIELD1": 7513,
+    "FIELD2": "B",
+    "FIELD3": "EL LUCERO "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "EL LUCHADOR "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "EL MANGRULLO "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "EL MARQUESADO "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "EL MIRADOR "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "EL MORO "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "EL NACIONAL "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "EL NILO "
+  },
+  {
+    "FIELD1": 1684,
+    "FIELD2": "B",
+    "FIELD3": "EL PALOMAR "
+  },
+  {
+    "FIELD1": 1865,
+    "FIELD2": "B",
+    "FIELD3": "EL PAMPERO "
+  },
+  {
+    "FIELD1": 2916,
+    "FIELD2": "B",
+    "FIELD3": "EL PARAISO "
+  },
+  {
+    "FIELD1": 8144,
+    "FIELD2": "B",
+    "FIELD3": "EL PARAISO "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "EL PARCHE "
+  },
+  {
+    "FIELD1": 6341,
+    "FIELD2": "B",
+    "FIELD3": "EL PARQUE "
+  },
+  {
+    "FIELD1": 2720,
+    "FIELD2": "B",
+    "FIELD3": "EL PELADO "
+  },
+  {
+    "FIELD1": 7531,
+    "FIELD2": "B",
+    "FIELD3": "EL PENSAMIENTO "
+  },
+  {
+    "FIELD1": 8156,
+    "FIELD2": "B",
+    "FIELD3": "EL PERDIDO EST JOSE GUISASOLA "
+  },
+  {
+    "FIELD1": 6053,
+    "FIELD2": "B",
+    "FIELD3": "EL PEREGRINO "
+  },
+  {
+    "FIELD1": 1907,
+    "FIELD2": "B",
+    "FIELD3": "EL PINO "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "EL PITO "
+  },
+  {
+    "FIELD1": 7641,
+    "FIELD2": "B",
+    "FIELD3": "EL PITO "
+  },
+  {
+    "FIELD1": 6550,
+    "FIELD2": "B",
+    "FIELD3": "EL PORVENIR "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "EL QUEMADO "
+  },
+  {
+    "FIELD1": 6474,
+    "FIELD2": "B",
+    "FIELD3": "EL RECADO "
+  },
+  {
+    "FIELD1": 7612,
+    "FIELD2": "B",
+    "FIELD3": "EL REFUGIO "
+  },
+  {
+    "FIELD1": 2741,
+    "FIELD2": "B",
+    "FIELD3": "EL RETIRO "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "EL RETIRO "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "EL RINCON "
+  },
+  {
+    "FIELD1": 8146,
+    "FIELD2": "B",
+    "FIELD3": "EL RINCON "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "EL ROSARIO "
+  },
+  {
+    "FIELD1": 6463,
+    "FIELD2": "B",
+    "FIELD3": "EL SANTIAGO "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "EL SAUCE "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "EL SIASGO "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "EL SILENCIO "
+  },
+  {
+    "FIELD1": 2715,
+    "FIELD2": "B",
+    "FIELD3": "EL SOCORRO "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "EL SOLDADO "
+  },
+  {
+    "FIELD1": 1617,
+    "FIELD2": "B",
+    "FIELD3": "EL TALAR "
+  },
+  {
+    "FIELD1": 2801,
+    "FIELD2": "B",
+    "FIELD3": "EL TATU "
+  },
+  {
+    "FIELD1": 6515,
+    "FIELD2": "B",
+    "FIELD3": "EL TEJAR "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "EL TREBAÑON "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "EL TRIANGULO "
+  },
+  {
+    "FIELD1": 7207,
+    "FIELD2": "B",
+    "FIELD3": "EL TRIGO "
+  },
+  {
+    "FIELD1": 6467,
+    "FIELD2": "B",
+    "FIELD3": "EL TRIO "
+  },
+  {
+    "FIELD1": 6073,
+    "FIELD2": "B",
+    "FIELD3": "EL TRIUNFO "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "EL VENCE "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "EL VERANO "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "EL VIGILANTE "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "EL VOLANTE "
+  },
+  {
+    "FIELD1": 8151,
+    "FIELD2": "B",
+    "FIELD3": "EL ZORRO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "ELIAS ROMERO "
+  },
+  {
+    "FIELD1": 6242,
+    "FIELD2": "B",
+    "FIELD3": "ELORDI "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "ELVIRA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "EMILIANO REYNOSO "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "EMILIO AYERZA "
+  },
+  {
+    "FIELD1": 6241,
+    "FIELD2": "B",
+    "FIELD3": "EMILIO BUNGE "
+  },
+  {
+    "FIELD1": 8505,
+    "FIELD2": "B",
+    "FIELD3": "EMILIO LAMARCA "
+  },
+  {
+    "FIELD1": 6634,
+    "FIELD2": "B",
+    "FIELD3": "EMITA "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "EMMA "
+  },
+  {
+    "FIELD1": 1633,
+    "FIELD2": "B",
+    "FIELD3": "EMPALME "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "EMPALME CERRO CHATO "
+  },
+  {
+    "FIELD1": 7249,
+    "FIELD2": "B",
+    "FIELD3": "EMPALME LOBOS "
+  },
+  {
+    "FIELD1": 1913,
+    "FIELD2": "B",
+    "FIELD3": "EMPALME MAGDALENA "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "EMPALME PIEDRA ECHADA "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "EMPALME QUERANDIES "
+  },
+  {
+    "FIELD1": 6077,
+    "FIELD2": "B",
+    "FIELD3": "ENCINA "
+  },
+  {
+    "FIELD1": 7641,
+    "FIELD2": "B",
+    "FIELD3": "ENERGIA "
+  },
+  {
+    "FIELD1": 1741,
+    "FIELD2": "B",
+    "FIELD3": "ENRIQUE FYNN "
+  },
+  {
+    "FIELD1": 6467,
+    "FIELD2": "B",
+    "FIELD3": "ENRIQUE LAVALLE "
+  },
+  {
+    "FIELD1": 1925,
+    "FIELD2": "B",
+    "FIELD3": "ENSENADA "
+  },
+  {
+    "FIELD1": 6443,
+    "FIELD2": "B",
+    "FIELD3": "EPUMER "
+  },
+  {
+    "FIELD1": 2903,
+    "FIELD2": "B",
+    "FIELD3": "EREZCANO "
+  },
+  {
+    "FIELD1": 8181,
+    "FIELD2": "B",
+    "FIELD3": "ERIZE "
+  },
+  {
+    "FIELD1": 6665,
+    "FIELD2": "B",
+    "FIELD3": "ERNESTINA "
+  },
+  {
+    "FIELD1": 1927,
+    "FIELD2": "B",
+    "FIELD3": "ESC NAV MILITAR RIO SANT "
+  },
+  {
+    "FIELD1": 2801,
+    "FIELD2": "B",
+    "FIELD3": "ESCALADA "
+  },
+  {
+    "FIELD1": 1815,
+    "FIELD2": "B",
+    "FIELD3": "ESCUELA AGRICOLA DON BOSCO "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "ESCUELA AGRICOLA RURAL "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "ESCUELA AGRICOLA SALESIANA "
+  },
+  {
+    "FIELD1": 6509,
+    "FIELD2": "B",
+    "FIELD3": "ESCUELA AGRICOLA SALESIANA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "ESPADAÑA "
+  },
+  {
+    "FIELD1": 1987,
+    "FIELD2": "B",
+    "FIELD3": "ESPARTILLAR "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "ESPARTILLAR "
+  },
+  {
+    "FIELD1": 8171,
+    "FIELD2": "B",
+    "FIELD3": "ESPARTILLAR "
+  },
+  {
+    "FIELD1": 6561,
+    "FIELD2": "B",
+    "FIELD3": "ESPIGAS "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "ESPORA "
+  },
+  {
+    "FIELD1": 8107,
+    "FIELD2": "B",
+    "FIELD3": "ESPORA "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "ESQUINA DE CROTTO "
+  },
+  {
+    "FIELD1": 6706,
+    "FIELD2": "B",
+    "FIELD3": "EST JAUREGUI VA FLANDRIA "
+  },
+  {
+    "FIELD1": 7505,
+    "FIELD2": "B",
+    "FIELD3": "EST SAN FRANCISCO BELLOQ "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "ESTABLECIMIENTO SAN MIGUEL "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION ASCENSION "
+  },
+  {
+    "FIELD1": 2942,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION BARADERO "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION BARROW "
+  },
+  {
+    "FIELD1": 6339,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION CAIOMUTA "
+  },
+  {
+    "FIELD1": 7536,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION CORONEL PRINGLES "
+  },
+  {
+    "FIELD1": 6005,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION GENERAL ARENALES "
+  },
+  {
+    "FIELD1": 1903,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION GOMEZ "
+  },
+  {
+    "FIELD1": 6431,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION LAGO EPECUEN "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION LAZZARINO "
+  },
+  {
+    "FIELD1": 6070,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION LINCOLN "
+  },
+  {
+    "FIELD1": 1901,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION MORENO "
+  },
+  {
+    "FIELD1": 6501,
+    "FIELD2": "B",
+    "FIELD3": "ESTACION PROVINCIAL "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA CHAPAR "
+  },
+  {
+    "FIELD1": 2723,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA LAS GAMAS "
+  },
+  {
+    "FIELD1": 8148,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA LAS ISLETAS "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA MITIKILI "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA SAN ANTONIO "
+  },
+  {
+    "FIELD1": 6537,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA SAN CLAUDIO "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA SAN RAFAEL "
+  },
+  {
+    "FIELD1": 2761,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA SANTA CATALINA "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIA VIEJA "
+  },
+  {
+    "FIELD1": 2909,
+    "FIELD2": "B",
+    "FIELD3": "ESTANCIAS "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "ESTEBAN A GASCON "
+  },
+  {
+    "FIELD1": 6475,
+    "FIELD2": "B",
+    "FIELD3": "ESTEBAN DE LUCA "
+  },
+  {
+    "FIELD1": 6607,
+    "FIELD2": "B",
+    "FIELD3": "ESTEBAN DIAZ "
+  },
+  {
+    "FIELD1": 8127,
+    "FIELD2": "B",
+    "FIELD3": "ESTELA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "ESTHER "
+  },
+  {
+    "FIELD1": 8118,
+    "FIELD2": "B",
+    "FIELD3": "ESTOMBA "
+  },
+  {
+    "FIELD1": 6725,
+    "FIELD2": "B",
+    "FIELD3": "ESTRELLA NACIENTE "
+  },
+  {
+    "FIELD1": 7207,
+    "FIELD2": "B",
+    "FIELD3": "ESTRUGAMOU "
+  },
+  {
+    "FIELD1": 6703,
+    "FIELD2": "B",
+    "FIELD3": "ETCHEGOYEN "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "EXALTACION DE LA CRUZ "
+  },
+  {
+    "FIELD1": 1804,
+    "FIELD2": "B",
+    "FIELD3": "EZEIZA "
+  },
+  {
+    "FIELD1": 1882,
+    "FIELD2": "B",
+    "FIELD3": "EZPELETA ESTE "
+  },
+  {
+    "FIELD1": 1882,
+    "FIELD2": "B",
+    "FIELD3": "EZPELETA OESTE "
+  },
+  {
+    "FIELD1": 7153,
+    "FIELD2": "B",
+    "FIELD3": "FAIR "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "FARO "
+  },
+  {
+    "FIELD1": 7165,
+    "FIELD2": "B",
+    "FIELD3": "FARO QUERANDI "
+  },
+  {
+    "FIELD1": 7103,
+    "FIELD2": "B",
+    "FIELD3": "FARO SAN ANTONIO "
+  },
+  {
+    "FIELD1": 8504,
+    "FIELD2": "B",
+    "FIELD3": "FARO SEGUNDA BARRANCOSA "
+  },
+  {
+    "FIELD1": 1633,
+    "FIELD2": "B",
+    "FIELD3": "FATIMA ESTACION EMPALME "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "FATRALO "
+  },
+  {
+    "FIELD1": 6500,
+    "FIELD2": "B",
+    "FIELD3": "FAUZON "
+  },
+  {
+    "FIELD1": 8129,
+    "FIELD2": "B",
+    "FIELD3": "FELIPE SOLA "
+  },
+  {
+    "FIELD1": 6223,
+    "FIELD2": "B",
+    "FIELD3": "FERNANDO MARTI "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "FERRE "
+  },
+  {
+    "FIELD1": 2763,
+    "FIELD2": "B",
+    "FIELD3": "FLAMENCO "
+  },
+  {
+    "FIELD1": 1888,
+    "FIELD2": "B",
+    "FIELD3": "FLORENCIO VARELA "
+  },
+  {
+    "FIELD1": 6064,
+    "FIELD2": "B",
+    "FIELD3": "FLORENTINO AMEGHINO "
+  },
+  {
+    "FIELD1": 1602,
+    "FIELD2": "B",
+    "FIELD3": "FLORIDA "
+  },
+  {
+    "FIELD1": 1602,
+    "FIELD2": "B",
+    "FIELD3": "FLORIDA OESTE "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "FONTEZUELA "
+  },
+  {
+    "FIELD1": 6031,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN ACHA "
+  },
+  {
+    "FIELD1": 8160,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN CHACO "
+  },
+  {
+    "FIELD1": 7316,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN IRENE "
+  },
+  {
+    "FIELD1": 7404,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN LAVALLE "
+  },
+  {
+    "FIELD1": 8148,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN MERCEDES "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN NECOCHEA "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN OLAVARRIA "
+  },
+  {
+    "FIELD1": 6417,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN PAUNERO "
+  },
+  {
+    "FIELD1": 6001,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN TIBURCIO "
+  },
+  {
+    "FIELD1": 8148,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN VIEJO "
+  },
+  {
+    "FIELD1": 6073,
+    "FIELD2": "B",
+    "FIELD3": "FORTIN VIGILANCIA "
+  },
+  {
+    "FIELD1": 1746,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO ALVAREZ "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO AYERZA "
+  },
+  {
+    "FIELD1": 7221,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO BERRA "
+  },
+  {
+    "FIELD1": 1808,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO CASAL "
+  },
+  {
+    "FIELD1": 6230,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO CASAL "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO DE VITORIA "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO J MEEKS "
+  },
+  {
+    "FIELD1": 6472,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO MADERO "
+  },
+  {
+    "FIELD1": 6475,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO MAGNANO "
+  },
+  {
+    "FIELD1": 6341,
+    "FIELD2": "B",
+    "FIELD3": "FRANCISCO MURATURE "
+  },
+  {
+    "FIELD1": 6614,
+    "FIELD2": "B",
+    "FIELD3": "FRANKLIN "
+  },
+  {
+    "FIELD1": 6516,
+    "FIELD2": "B",
+    "FIELD3": "FRENCH "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "FRIGORIFICO ARMOUR "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "FRIGORIFICO LAS PALMAS "
+  },
+  {
+    "FIELD1": 8160,
+    "FIELD2": "B",
+    "FIELD3": "FUERTE ARGENTINO "
+  },
+  {
+    "FIELD1": 1925,
+    "FIELD2": "B",
+    "FIELD3": "FUERTE BARRAGAN "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "FULTON "
+  },
+  {
+    "FIELD1": 7220,
+    "FIELD2": "B",
+    "FIELD3": "FUNKE "
+  },
+  {
+    "FIELD1": 2745,
+    "FIELD2": "B",
+    "FIELD3": "GAHAN "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "GALERA DE TORRES "
+  },
+  {
+    "FIELD1": 6513,
+    "FIELD2": "B",
+    "FIELD3": "GALO LLORENTE "
+  },
+  {
+    "FIELD1": 7136,
+    "FIELD2": "B",
+    "FIELD3": "GANDARA "
+  },
+  {
+    "FIELD1": 8162,
+    "FIELD2": "B",
+    "FIELD3": "GARCIA DEL RIO "
+  },
+  {
+    "FIELD1": 7003,
+    "FIELD2": "B",
+    "FIELD3": "GARDEY "
+  },
+  {
+    "FIELD1": 1619,
+    "FIELD2": "B",
+    "FIELD3": "GARIN "
+  },
+  {
+    "FIELD1": 6411,
+    "FIELD2": "B",
+    "FIELD3": "GARRE "
+  },
+  {
+    "FIELD1": 8103,
+    "FIELD2": "B",
+    "FIELD3": "GARRO "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL ALVARADO "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL ALVEAR "
+  },
+  {
+    "FIELD1": 6005,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL ARENALES "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL BELGRANO "
+  },
+  {
+    "FIELD1": 2907,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL CONESA "
+  },
+  {
+    "FIELD1": 7101,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL CONESA "
+  },
+  {
+    "FIELD1": 7118,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL GUIDO "
+  },
+  {
+    "FIELD1": 1739,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL HORNOS "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL LAMADRID "
+  },
+  {
+    "FIELD1": 1741,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL LAS HERAS "
+  },
+  {
+    "FIELD1": 7103,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL LAVALLE "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL MADARIAGA "
+  },
+  {
+    "FIELD1": 1911,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL MANSILLA "
+  },
+  {
+    "FIELD1": 6646,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL O BRIEN "
+  },
+  {
+    "FIELD1": 1617,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL PACHECO "
+  },
+  {
+    "FIELD1": 6050,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL PINTO "
+  },
+  {
+    "FIELD1": 7172,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL PIRAN "
+  },
+  {
+    "FIELD1": 6614,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL RIVAS "
+  },
+  {
+    "FIELD1": 1748,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL RODRIGUEZ "
+  },
+  {
+    "FIELD1": 2905,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL ROJO "
+  },
+  {
+    "FIELD1": 8124,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL RONDEAU "
+  },
+  {
+    "FIELD1": 1650,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL SAN MARTIN "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL VALDEZ "
+  },
+  {
+    "FIELD1": 6015,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL VIAMONTE "
+  },
+  {
+    "FIELD1": 6230,
+    "FIELD2": "B",
+    "FIELD3": "GENERAL VILLEGAS "
+  },
+  {
+    "FIELD1": 6507,
+    "FIELD2": "B",
+    "FIELD3": "GERENTE CILLEY "
+  },
+  {
+    "FIELD1": 1824,
+    "FIELD2": "B",
+    "FIELD3": "GERLI "
+  },
+  {
+    "FIELD1": 1870,
+    "FIELD2": "B",
+    "FIELD3": "GERLI "
+  },
+  {
+    "FIELD1": 6053,
+    "FIELD2": "B",
+    "FIELD3": "GERMANIA "
+  },
+  {
+    "FIELD1": 8151,
+    "FIELD2": "B",
+    "FIELD3": "GIL "
+  },
+  {
+    "FIELD1": 6407,
+    "FIELD2": "B",
+    "FIELD3": "GIRODIAS "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "GIRONDO "
+  },
+  {
+    "FIELD1": 1856,
+    "FIELD2": "B",
+    "FIELD3": "GLEW "
+  },
+  {
+    "FIELD1": 8129,
+    "FIELD2": "B",
+    "FIELD3": "GLORIALDO "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "GNECCO "
+  },
+  {
+    "FIELD1": 2764,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR ANDONAEGHI "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR ARIAS "
+  },
+  {
+    "FIELD1": 2946,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR CASTRO "
+  },
+  {
+    "FIELD1": 1888,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR COSTA "
+  },
+  {
+    "FIELD1": 1981,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR OBLIGADO "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR ORTIZ DE ROSAS "
+  },
+  {
+    "FIELD1": 7221,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR UDAONDO "
+  },
+  {
+    "FIELD1": 6621,
+    "FIELD2": "B",
+    "FIELD3": "GOBERNADOR UGARTE "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "GOBOS "
+  },
+  {
+    "FIELD1": 6614,
+    "FIELD2": "B",
+    "FIELD3": "GOLDNEY "
+  },
+  {
+    "FIELD1": 1983,
+    "FIELD2": "B",
+    "FIELD3": "GOMEZ "
+  },
+  {
+    "FIELD1": 1983,
+    "FIELD2": "B",
+    "FIELD3": "GOMEZ  DE LA VEGA "
+  },
+  {
+    "FIELD1": 6241,
+    "FIELD2": "B",
+    "FIELD3": "GONDRA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "GOÑI "
+  },
+  {
+    "FIELD1": 1759,
+    "FIELD2": "B",
+    "FIELD3": "GONZALEZ CATAN "
+  },
+  {
+    "FIELD1": 6239,
+    "FIELD2": "B",
+    "FIELD3": "GONZALEZ MORENO "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "GONZALEZ RISOS "
+  },
+  {
+    "FIELD1": 7226,
+    "FIELD2": "B",
+    "FIELD3": "GORCHS "
+  },
+  {
+    "FIELD1": 2717,
+    "FIELD2": "B",
+    "FIELD3": "GORNATTI "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "GOROSO "
+  },
+  {
+    "FIELD1": 6632,
+    "FIELD2": "B",
+    "FIELD3": "GOROSTIAGA "
+  },
+  {
+    "FIELD1": 6727,
+    "FIELD2": "B",
+    "FIELD3": "GOUIN "
+  },
+  {
+    "FIELD1": 6608,
+    "FIELD2": "B",
+    "FIELD3": "GOWLAND "
+  },
+  {
+    "FIELD1": 8175,
+    "FIELD2": "B",
+    "FIELD3": "GOYENA "
+  },
+  {
+    "FIELD1": 7220,
+    "FIELD2": "B",
+    "FIELD3": "GOYENECHE "
+  },
+  {
+    "FIELD1": 6335,
+    "FIELD2": "B",
+    "FIELD3": "GRACIARENA "
+  },
+  {
+    "FIELD1": 8105,
+    "FIELD2": "B",
+    "FIELD3": "GRAL DANIEL CERRI "
+  },
+  {
+    "FIELD1": 1615,
+    "FIELD2": "B",
+    "FIELD3": "GRAND BOURG "
+  },
+  {
+    "FIELD1": 1925,
+    "FIELD2": "B",
+    "FIELD3": "GRAND DOCK "
+  },
+  {
+    "FIELD1": 1757,
+    "FIELD2": "B",
+    "FIELD3": "GREGORIO DE LAFERRERE "
+  },
+  {
+    "FIELD1": 6740,
+    "FIELD2": "B",
+    "FIELD3": "GREGORIO VILLAFAÑE "
+  },
+  {
+    "FIELD1": 6627,
+    "FIELD2": "B",
+    "FIELD3": "GRISOLIA "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "GRUMBEIN "
+  },
+  {
+    "FIELD1": 6435,
+    "FIELD2": "B",
+    "FIELD3": "GUAMINI "
+  },
+  {
+    "FIELD1": 6476,
+    "FIELD2": "B",
+    "FIELD3": "GUANACO "
+  },
+  {
+    "FIELD1": 7220,
+    "FIELD2": "B",
+    "FIELD3": "GUARDIA DEL MONTE "
+  },
+  {
+    "FIELD1": 1862,
+    "FIELD2": "B",
+    "FIELD3": "GUERNICA "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "GUERRERO "
+  },
+  {
+    "FIELD1": 2717,
+    "FIELD2": "B",
+    "FIELD3": "GUERRICO "
+  },
+  {
+    "FIELD1": 2707,
+    "FIELD2": "B",
+    "FIELD3": "GUIDO SPANO "
+  },
+  {
+    "FIELD1": 1885,
+    "FIELD2": "B",
+    "FIELD3": "GUILLERMO E HUDSON "
+  },
+  {
+    "FIELD1": 6053,
+    "FIELD2": "B",
+    "FIELD3": "GUNTHER "
+  },
+  {
+    "FIELD1": 1706,
+    "FIELD2": "B",
+    "FIELD3": "HAEDO "
+  },
+  {
+    "FIELD1": 6064,
+    "FIELD2": "B",
+    "FIELD3": "HALCEY "
+  },
+  {
+    "FIELD1": 6511,
+    "FIELD2": "B",
+    "FIELD3": "HALE "
+  },
+  {
+    "FIELD1": 6005,
+    "FIELD2": "B",
+    "FIELD3": "HAM "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "HARAS 1 DE MAYO "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "HARAS CHACABUCO "
+  },
+  {
+    "FIELD1": 7605,
+    "FIELD2": "B",
+    "FIELD3": "HARAS CHAPADMALAL "
+  },
+  {
+    "FIELD1": 6627,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL CARMEN "
+  },
+  {
+    "FIELD1": 6050,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL CATORCE "
+  },
+  {
+    "FIELD1": 2701,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL CENTINELA "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL CISNE "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL MORO "
+  },
+  {
+    "FIELD1": 2916,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL OMBU "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "HARAS EL SALASO "
+  },
+  {
+    "FIELD1": 6612,
+    "FIELD2": "B",
+    "FIELD3": "HARAS LA ELVIRA "
+  },
+  {
+    "FIELD1": 7011,
+    "FIELD2": "B",
+    "FIELD3": "HARAS LA LULA "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "HARAS LOS CARDALES "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "HARAS NACIONAL "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "HARAS OJO DEL AGUA "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "HARAS R DE LA PARVA "
+  },
+  {
+    "FIELD1": 7136,
+    "FIELD2": "B",
+    "FIELD3": "HARAS SAN IGNACIO "
+  },
+  {
+    "FIELD1": 2705,
+    "FIELD2": "B",
+    "FIELD3": "HARAS SAN JACINTO "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "HARAS TRUJUI "
+  },
+  {
+    "FIELD1": 6723,
+    "FIELD2": "B",
+    "FIELD3": "HEAVY "
+  },
+  {
+    "FIELD1": 6465,
+    "FIELD2": "B",
+    "FIELD3": "HENDERSON "
+  },
+  {
+    "FIELD1": 6621,
+    "FIELD2": "B",
+    "FIELD3": "HENRY BELL "
+  },
+  {
+    "FIELD1": 6233,
+    "FIELD2": "B",
+    "FIELD3": "HEREFORD "
+  },
+  {
+    "FIELD1": 6557,
+    "FIELD2": "B",
+    "FIELD3": "HERRERA VEGAS "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "HILARIO ASCASUBI "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "HINOJALES "
+  },
+  {
+    "FIELD1": 7318,
+    "FIELD2": "B",
+    "FIELD3": "HINOJO "
+  },
+  {
+    "FIELD1": 7172,
+    "FIELD2": "B",
+    "FIELD3": "HOGAR MARIANO ORTIZ BASUALDO "
+  },
+  {
+    "FIELD1": 1739,
+    "FIELD2": "B",
+    "FIELD3": "HORNOS "
+  },
+  {
+    "FIELD1": 6537,
+    "FIELD2": "B",
+    "FIELD3": "HORTENSIA "
+  },
+  {
+    "FIELD1": 7630,
+    "FIELD2": "B",
+    "FIELD3": "HOSPITAL NECOCHEA "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "HOSPITAL SAN ANTONIO DE LA LLA "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "HUANGUELEN "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "HUESO CLAVADO "
+  },
+  {
+    "FIELD1": 6511,
+    "FIELD2": "B",
+    "FIELD3": "HUETEL "
+  },
+  {
+    "FIELD1": 2707,
+    "FIELD2": "B",
+    "FIELD3": "HUNTER "
+  },
+  {
+    "FIELD1": 1686,
+    "FIELD2": "B",
+    "FIELD3": "HURLINGHAM "
+  },
+  {
+    "FIELD1": 6455,
+    "FIELD2": "B",
+    "FIELD3": "HUSARES "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "IBAÑEZ "
+  },
+  {
+    "FIELD1": 8512,
+    "FIELD2": "B",
+    "FIELD3": "IGARZABAL "
+  },
+  {
+    "FIELD1": 1909,
+    "FIELD2": "B",
+    "FIELD3": "IGNACIO CORREAS "
+  },
+  {
+    "FIELD1": 6623,
+    "FIELD2": "B",
+    "FIELD3": "INDACOCHEA "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "INDIA MUERTA "
+  },
+  {
+    "FIELD1": 7501,
+    "FIELD2": "B",
+    "FIELD3": "INDIO RICO "
+  },
+  {
+    "FIELD1": 2747,
+    "FIELD2": "B",
+    "FIELD3": "INES INDART "
+  },
+  {
+    "FIELD1": 1612,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO ADOLFO SOURDEAUX "
+  },
+  {
+    "FIELD1": 1891,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO ALLAN "
+  },
+  {
+    "FIELD1": 6051,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO BALBIN "
+  },
+  {
+    "FIELD1": 6457,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO BEAUGEY "
+  },
+  {
+    "FIELD1": 6651,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO DE MADRID "
+  },
+  {
+    "FIELD1": 1623,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO MASCHWITZ "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO MONETA "
+  },
+  {
+    "FIELD1": 6743,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO SILVEYRA "
+  },
+  {
+    "FIELD1": 6337,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO THOMPSON "
+  },
+  {
+    "FIELD1": 8103,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO WHITE "
+  },
+  {
+    "FIELD1": 6603,
+    "FIELD2": "B",
+    "FIELD3": "INGENIERO WILLIAMS "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "INOCENCIO SOSA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "INVERNADAS "
+  },
+  {
+    "FIELD1": 6013,
+    "FIELD2": "B",
+    "FIELD3": "IRALA "
+  },
+  {
+    "FIELD1": 7009,
+    "FIELD2": "B",
+    "FIELD3": "IRAOLA "
+  },
+  {
+    "FIELD1": 7507,
+    "FIELD2": "B",
+    "FIELD3": "IRENE "
+  },
+  {
+    "FIELD1": 2943,
+    "FIELD2": "B",
+    "FIELD3": "IRENEO PORTELA "
+  },
+  {
+    "FIELD1": 6042,
+    "FIELD2": "B",
+    "FIELD3": "IRIARTE "
+  },
+  {
+    "FIELD1": 1765,
+    "FIELD2": "B",
+    "FIELD3": "ISIDRO CASANOVA "
+  },
+  {
+    "FIELD1": 8111,
+    "FIELD2": "B",
+    "FIELD3": "ISLA CATARELLI "
+  },
+  {
+    "FIELD1": 2931,
+    "FIELD2": "B",
+    "FIELD3": "ISLA LOS LAURELES "
+  },
+  {
+    "FIELD1": 1601,
+    "FIELD2": "B",
+    "FIELD3": "ISLA MARTIN GARCIA "
+  },
+  {
+    "FIELD1": 1929,
+    "FIELD2": "B",
+    "FIELD3": "ISLA PAULINO "
+  },
+  {
+    "FIELD1": 1929,
+    "FIELD2": "B",
+    "FIELD3": "ISLA SANTIAGO "
+  },
+  {
+    "FIELD1": 8146,
+    "FIELD2": "B",
+    "FIELD3": "ISLA VERDE "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "ISLAS "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "ISONDU "
+  },
+  {
+    "FIELD1": 6557,
+    "FIELD2": "B",
+    "FIELD3": "ITURREGUI "
+  },
+  {
+    "FIELD1": 1714,
+    "FIELD2": "B",
+    "FIELD3": "ITUZAINGO "
+  },
+  {
+    "FIELD1": 8508,
+    "FIELD2": "B",
+    "FIELD3": "JARRILLA "
+  },
+  {
+    "FIELD1": 6706,
+    "FIELD2": "B",
+    "FIELD3": "JAUREGUI JOSE MARIA "
+  },
+  {
+    "FIELD1": 1986,
+    "FIELD2": "B",
+    "FIELD3": "JEPPENER "
+  },
+  {
+    "FIELD1": 1896,
+    "FIELD2": "B",
+    "FIELD3": "JOAQUIN GORINA "
+  },
+  {
+    "FIELD1": 8506,
+    "FIELD2": "B",
+    "FIELD3": "JOSE B CASAS "
+  },
+  {
+    "FIELD1": 1665,
+    "FIELD2": "B",
+    "FIELD3": "JOSE CLEMENTE PAZ "
+  },
+  {
+    "FIELD1": 1905,
+    "FIELD2": "B",
+    "FIELD3": "JOSE FERRARI "
+  },
+  {
+    "FIELD1": 1702,
+    "FIELD2": "B",
+    "FIELD3": "JOSE INGENIEROS "
+  },
+  {
+    "FIELD1": 1655,
+    "FIELD2": "B",
+    "FIELD3": "JOSE LEON SUAREZ "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "JOSE M MICHEO "
+  },
+  {
+    "FIELD1": 6409,
+    "FIELD2": "B",
+    "FIELD3": "JOSE MARIA BLANCO "
+  },
+  {
+    "FIELD1": 1846,
+    "FIELD2": "B",
+    "FIELD3": "JOSE MARMOL "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "JOSE SOJO "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "JUAN A PRADERE "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "JUAN ATUCHA "
+  },
+  {
+    "FIELD1": 6034,
+    "FIELD2": "B",
+    "FIELD3": "JUAN BAUTISTA ALBERDI "
+  },
+  {
+    "FIELD1": 7267,
+    "FIELD2": "B",
+    "FIELD3": "JUAN BLAQUIER "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "JUAN COUSTE "
+  },
+  {
+    "FIELD1": 7517,
+    "FIELD2": "B",
+    "FIELD3": "JUAN E BARRA "
+  },
+  {
+    "FIELD1": 6551,
+    "FIELD2": "B",
+    "FIELD3": "JUAN F IBARRA "
+  },
+  {
+    "FIELD1": 2909,
+    "FIELD2": "B",
+    "FIELD3": "JUAN G PUJOL "
+  },
+  {
+    "FIELD1": 6603,
+    "FIELD2": "B",
+    "FIELD3": "JUAN JOSE ALMEYRA "
+  },
+  {
+    "FIELD1": 6474,
+    "FIELD2": "B",
+    "FIELD3": "JUAN JOSE PASO "
+  },
+  {
+    "FIELD1": 1890,
+    "FIELD2": "B",
+    "FIELD3": "JUAN MARIA GUTIERREZ "
+  },
+  {
+    "FIELD1": 7011,
+    "FIELD2": "B",
+    "FIELD3": "JUAN N FERNANDEZ "
+  },
+  {
+    "FIELD1": 7247,
+    "FIELD2": "B",
+    "FIELD3": "JUAN TRONCONI "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "JUAN V CILLEY "
+  },
+  {
+    "FIELD1": 6663,
+    "FIELD2": "B",
+    "FIELD3": "JUAN VELA "
+  },
+  {
+    "FIELD1": 1894,
+    "FIELD2": "B",
+    "FIELD3": "JUAN VUCETICH EX DR R LEVENE "
+  },
+  {
+    "FIELD1": 2717,
+    "FIELD2": "B",
+    "FIELD3": "JUANA A DE LA PEÑA "
+  },
+  {
+    "FIELD1": 7169,
+    "FIELD2": "B",
+    "FIELD3": "JUANCHO "
+  },
+  {
+    "FIELD1": 1913,
+    "FIELD2": "B",
+    "FIELD3": "JULIO ARDITI "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "JUNIN "
+  },
+  {
+    "FIELD1": 2745,
+    "FIELD2": "B",
+    "FIELD3": "KENNY "
+  },
+  {
+    "FIELD1": 2763,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 102 "
+  },
+  {
+    "FIELD1": 1915,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 103 "
+  },
+  {
+    "FIELD1": 6723,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 108 "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 11 "
+  },
+  {
+    "FIELD1": 7240,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 112 "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 116 "
+  },
+  {
+    "FIELD1": 6603,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 117 "
+  },
+  {
+    "FIELD1": 6600,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 125 "
+  },
+  {
+    "FIELD1": 6720,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 125 "
+  },
+  {
+    "FIELD1": 7221,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 128 "
+  },
+  {
+    "FIELD1": 7226,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 146 "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 172 "
+  },
+  {
+    "FIELD1": 2946,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 184 "
+  },
+  {
+    "FIELD1": 2741,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 187 "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 212 "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 282 "
+  },
+  {
+    "FIELD1": 6070,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 321 "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 322 "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 333 "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 352 "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 356 "
+  },
+  {
+    "FIELD1": 2705,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 36 "
+  },
+  {
+    "FIELD1": 6457,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 386 "
+  },
+  {
+    "FIELD1": 6467,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 393 "
+  },
+  {
+    "FIELD1": 7005,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 404 "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 433 "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 44 "
+  },
+  {
+    "FIELD1": 7635,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 440 "
+  },
+  {
+    "FIELD1": 1635,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 45 "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 45 "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 53 "
+  },
+  {
+    "FIELD1": 8151,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 563 "
+  },
+  {
+    "FIELD1": 1981,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 58 "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 59 "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 61 "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 652 "
+  },
+  {
+    "FIELD1": 8105,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 666 "
+  },
+  {
+    "FIELD1": 8144,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 697 "
+  },
+  {
+    "FIELD1": 1981,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 70 "
+  },
+  {
+    "FIELD1": 1737,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 77 "
+  },
+  {
+    "FIELD1": 1741,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 79 "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 82 "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 83 "
+  },
+  {
+    "FIELD1": 1815,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 88 "
+  },
+  {
+    "FIELD1": 2804,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 88 "
+  },
+  {
+    "FIELD1": 7220,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 88 "
+  },
+  {
+    "FIELD1": 7221,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 88 "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 9 SUD "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 90 "
+  },
+  {
+    "FIELD1": 1911,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 92 "
+  },
+  {
+    "FIELD1": 6031,
+    "FIELD2": "B",
+    "FIELD3": "KILOMETRO 95 "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "KRABBE "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "LA ADELA "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "LA ADELAIDA "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LA ALAMEDA "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LA ALCIRA "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LA AMALIA "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LA AMISTAD "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "LA AMORILLA "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "LA ANGELITA "
+  },
+  {
+    "FIELD1": 1865,
+    "FIELD2": "B",
+    "FIELD3": "LA ARGENTINA "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "LA ARMONIA "
+  },
+  {
+    "FIELD1": 6513,
+    "FIELD2": "B",
+    "FIELD3": "LA AURORA "
+  },
+  {
+    "FIELD1": 7009,
+    "FIELD2": "B",
+    "FIELD3": "LA AURORA "
+  },
+  {
+    "FIELD1": 8151,
+    "FIELD2": "B",
+    "FIELD3": "LA AURORA "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "LA AZOTEA "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LA AZOTEA GRANDE "
+  },
+  {
+    "FIELD1": 7005,
+    "FIELD2": "B",
+    "FIELD3": "LA AZUCENA "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "LA BALANDRA "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "LA BALLENA "
+  },
+  {
+    "FIELD1": 7605,
+    "FIELD2": "B",
+    "FIELD3": "LA BALLENERA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "LA BARRANCOSA "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "LA BEBA "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "LA BLANCA "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "LA BLANQUEADA "
+  },
+  {
+    "FIELD1": 2933,
+    "FIELD2": "B",
+    "FIELD3": "LA BOLSA "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "LA BRAVA "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "LA BUANA MOZA "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "LA CALERA "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "LA CALETA "
+  },
+  {
+    "FIELD1": 6616,
+    "FIELD2": "B",
+    "FIELD3": "LA CALIFORNIA ARGENTINA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "LA CAMPANA "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "LA CARLOTA "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "LA CARRETA "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "LA CAUTIVA "
+  },
+  {
+    "FIELD1": 8144,
+    "FIELD2": "B",
+    "FIELD3": "LA CELIA "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "LA CELINA "
+  },
+  {
+    "FIELD1": 6725,
+    "FIELD2": "B",
+    "FIELD3": "LA CENTRAL "
+  },
+  {
+    "FIELD1": 1737,
+    "FIELD2": "B",
+    "FIELD3": "LA CHOZA "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "LA CHUMBEADA "
+  },
+  {
+    "FIELD1": 7316,
+    "FIELD2": "B",
+    "FIELD3": "LA CHUMBEADA "
+  },
+  {
+    "FIELD1": 7408,
+    "FIELD2": "B",
+    "FIELD3": "LA COLINA "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LA COLMENA "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "LA COLORADA "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "LA COLORADA "
+  },
+  {
+    "FIELD1": 8126,
+    "FIELD2": "B",
+    "FIELD3": "LA COLORADA CHICA "
+  },
+  {
+    "FIELD1": 7153,
+    "FIELD2": "B",
+    "FIELD3": "LA CONSTANCIA "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "LA COPETA "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "LA CORA "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "LA CORINA "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "LA CORINCO "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "LA COSTA "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "LA COSTA "
+  },
+  {
+    "FIELD1": 6461,
+    "FIELD2": "B",
+    "FIELD3": "LA COTORRA "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "LA DELFINA "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "LA DELIA "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LA DESPIERTA "
+  },
+  {
+    "FIELD1": 6538,
+    "FIELD2": "B",
+    "FIELD3": "LA DORITA "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "LA DORMILONA "
+  },
+  {
+    "FIELD1": 7637,
+    "FIELD2": "B",
+    "FIELD3": "LA DULCE "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LA ELMA "
+  },
+  {
+    "FIELD1": 2915,
+    "FIELD2": "B",
+    "FIELD3": "LA ESPERANZA "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "LA ESPERANZA "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "LA ESPERANZA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "LA ESPERANZA GRAL MADARIAGA "
+  },
+  {
+    "FIELD1": 7205,
+    "FIELD2": "B",
+    "FIELD3": "LA ESPERANZA ROSAS LAS FLORES "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "LA ESTRELLA "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "LA ESTRELLA "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "LA EVA "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "LA FELICIANA "
+  },
+  {
+    "FIELD1": 6720,
+    "FIELD2": "B",
+    "FIELD3": "LA FLORIDA "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LA FLORIDA "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "LA FLORIDA "
+  },
+  {
+    "FIELD1": 1748,
+    "FIELD2": "B",
+    "FIELD3": "LA FRATERNIDAD "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "LA GARITA "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "LA GAVIOTA "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "LA GLEVA "
+  },
+  {
+    "FIELD1": 6665,
+    "FIELD2": "B",
+    "FIELD3": "LA GLORIA "
+  },
+  {
+    "FIELD1": 1623,
+    "FIELD2": "B",
+    "FIELD3": "LA GRACIELITA "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "LA GREGORIA "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "LA HERMINIA "
+  },
+  {
+    "FIELD1": 6475,
+    "FIELD2": "B",
+    "FIELD3": "LA HIGUERA "
+  },
+  {
+    "FIELD1": 2805,
+    "FIELD2": "B",
+    "FIELD3": "LA HORQUETA "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LA HORQUETA "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "LA HORQUETA "
+  },
+  {
+    "FIELD1": 6005,
+    "FIELD2": "B",
+    "FIELD3": "LA HUAYQUERIA "
+  },
+  {
+    "FIELD1": 2745,
+    "FIELD2": "B",
+    "FIELD3": "LA INVENCIBLE "
+  },
+  {
+    "FIELD1": 7112,
+    "FIELD2": "B",
+    "FIELD3": "LA ISABEL "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "LA LARGA "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LA LARGA NUEVA "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "LA LATA "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "LA LEONOR "
+  },
+  {
+    "FIELD1": 6645,
+    "FIELD2": "B",
+    "FIELD3": "LA LIMPIA "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "LA LOMA "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LA LUCIA "
+  },
+  {
+    "FIELD1": 1636,
+    "FIELD2": "B",
+    "FIELD3": "LA LUCILA "
+  },
+  {
+    "FIELD1": 7113,
+    "FIELD2": "B",
+    "FIELD3": "LA LUCILA DEL MAR "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "LA LUISA "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "LA LUNA "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "LA LUZ "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LA MADRECITA "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "LA MANTEQUERIA "
+  },
+  {
+    "FIELD1": 6439,
+    "FIELD2": "B",
+    "FIELD3": "LA MANUELA "
+  },
+  {
+    "FIELD1": 2715,
+    "FIELD2": "B",
+    "FIELD3": "LA MARGARITA "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "LA MARGARITA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "LA MARGARITA "
+  },
+  {
+    "FIELD1": 6640,
+    "FIELD2": "B",
+    "FIELD3": "LA MARIA "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "LA MARTINA "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "LA MASCOTA "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "LA MASCOTA "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "LA MASCOTA "
+  },
+  {
+    "FIELD1": 2931,
+    "FIELD2": "B",
+    "FIELD3": "LA MATILDE "
+  },
+  {
+    "FIELD1": 2707,
+    "FIELD2": "B",
+    "FIELD3": "LA NACION "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "LA NARCISA "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "LA NAVARRA "
+  },
+  {
+    "FIELD1": 7005,
+    "FIELD2": "B",
+    "FIELD3": "LA NEGRA "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "LA NELIDA "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "LA NEVADA "
+  },
+  {
+    "FIELD1": 6513,
+    "FIELD2": "B",
+    "FIELD3": "LA NIÑA "
+  },
+  {
+    "FIELD1": 1814,
+    "FIELD2": "B",
+    "FIELD3": "LA NORIA "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "LA NUMANCIA "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "LA NUTRIA "
+  },
+  {
+    "FIELD1": 6022,
+    "FIELD2": "B",
+    "FIELD3": "LA ORIENTAL "
+  },
+  {
+    "FIELD1": 6341,
+    "FIELD2": "B",
+    "FIELD3": "LA PALA "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "LA PALMA "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "LA PALMIRA "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "LA PAMPA "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "LA PARA "
+  },
+  {
+    "FIELD1": 7001,
+    "FIELD2": "B",
+    "FIELD3": "LA PASTORA "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "LA PASTORA "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "LA PAZ "
+  },
+  {
+    "FIELD1": 7247,
+    "FIELD2": "B",
+    "FIELD3": "LA PAZ CHICA "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "LA PEREGRINA "
+  },
+  {
+    "FIELD1": 6550,
+    "FIELD2": "B",
+    "FIELD3": "LA PERLA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "LA PESQUERIA "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LA PIEDRA "
+  },
+  {
+    "FIELD1": 6007,
+    "FIELD2": "B",
+    "FIELD3": "LA PINTA "
+  },
+  {
+    "FIELD1": 1900,
+    "FIELD2": "B",
+    "FIELD3": "LA PLATA "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "LA PLAYA "
+  },
+  {
+    "FIELD1": 8124,
+    "FIELD2": "B",
+    "FIELD3": "LA POCHOLA "
+  },
+  {
+    "FIELD1": 6407,
+    "FIELD2": "B",
+    "FIELD3": "LA PORTEÑA "
+  },
+  {
+    "FIELD1": 7207,
+    "FIELD2": "B",
+    "FIELD3": "LA PORTEÑA "
+  },
+  {
+    "FIELD1": 7241,
+    "FIELD2": "B",
+    "FIELD3": "LA PORTEÑA "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "LA POSADA "
+  },
+  {
+    "FIELD1": 7112,
+    "FIELD2": "B",
+    "FIELD3": "LA POSTA "
+  },
+  {
+    "FIELD1": 7153,
+    "FIELD2": "B",
+    "FIELD3": "LA POSTA "
+  },
+  {
+    "FIELD1": 6453,
+    "FIELD2": "B",
+    "FIELD3": "LA PRADERA "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "LA PRIMAVERA "
+  },
+  {
+    "FIELD1": 7543,
+    "FIELD2": "B",
+    "FIELD3": "LA PRIMAVERA "
+  },
+  {
+    "FIELD1": 7630,
+    "FIELD2": "B",
+    "FIELD3": "LA PRIMITIVA "
+  },
+  {
+    "FIELD1": 7112,
+    "FIELD2": "B",
+    "FIELD3": "LA PROTECCION "
+  },
+  {
+    "FIELD1": 6561,
+    "FIELD2": "B",
+    "FIELD3": "LA PROTEGIDA "
+  },
+  {
+    "FIELD1": 7311,
+    "FIELD2": "B",
+    "FIELD3": "LA PROTEGIDA "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "LA PROVIDENCIA "
+  },
+  {
+    "FIELD1": 2912,
+    "FIELD2": "B",
+    "FIELD3": "LA QUERENCIA "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "LA RABIA "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "LA RAZON "
+  },
+  {
+    "FIELD1": 7110,
+    "FIELD2": "B",
+    "FIELD3": "LA REFORMA "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LA REFORMA "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "LA REFORMA "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LA REFORMA "
+  },
+  {
+    "FIELD1": 1744,
+    "FIELD2": "B",
+    "FIELD3": "LA REJA "
+  },
+  {
+    "FIELD1": 7536,
+    "FIELD2": "B",
+    "FIELD3": "LA RESERVA "
+  },
+  {
+    "FIELD1": 6623,
+    "FIELD2": "B",
+    "FIELD3": "LA RICA "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "LA RINCONADA "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "LA ROSADA "
+  },
+  {
+    "FIELD1": 8187,
+    "FIELD2": "B",
+    "FIELD3": "LA ROSALIA "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "LA RUBIA "
+  },
+  {
+    "FIELD1": 1774,
+    "FIELD2": "B",
+    "FIELD3": "LA SALADA "
+  },
+  {
+    "FIELD1": 6612,
+    "FIELD2": "B",
+    "FIELD3": "LA SARA "
+  },
+  {
+    "FIELD1": 7621,
+    "FIELD2": "B",
+    "FIELD3": "LA SARA "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "LA SARITA "
+  },
+  {
+    "FIELD1": 8174,
+    "FIELD2": "B",
+    "FIELD3": "LA SAUDADE "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "LA SIRENA "
+  },
+  {
+    "FIELD1": 8154,
+    "FIELD2": "B",
+    "FIELD3": "LA SOBERANA "
+  },
+  {
+    "FIELD1": 6535,
+    "FIELD2": "B",
+    "FIELD3": "LA SOFIA "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "LA SOMBRA "
+  },
+  {
+    "FIELD1": 7517,
+    "FIELD2": "B",
+    "FIELD3": "LA SORTIJA "
+  },
+  {
+    "FIELD1": 6050,
+    "FIELD2": "B",
+    "FIELD3": "LA SUIZA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "LA TABLADA "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "LA TALINA "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "LA TIGRA "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "LA TOBIANA "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "LA TOMASA "
+  },
+  {
+    "FIELD1": 6553,
+    "FIELD2": "B",
+    "FIELD3": "LA TORRECITA "
+  },
+  {
+    "FIELD1": 6015,
+    "FIELD2": "B",
+    "FIELD3": "LA TRIBU "
+  },
+  {
+    "FIELD1": 6660,
+    "FIELD2": "B",
+    "FIELD3": "LA TRIBU "
+  },
+  {
+    "FIELD1": 6003,
+    "FIELD2": "B",
+    "FIELD3": "LA TRINIDAD "
+  },
+  {
+    "FIELD1": 1804,
+    "FIELD2": "B",
+    "FIELD3": "LA UNION "
+  },
+  {
+    "FIELD1": 7160,
+    "FIELD2": "B",
+    "FIELD3": "LA UNION "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "LA VALEROSA "
+  },
+  {
+    "FIELD1": 2715,
+    "FIELD2": "B",
+    "FIELD3": "LA VANGUARDIA "
+  },
+  {
+    "FIELD1": 8181,
+    "FIELD2": "B",
+    "FIELD3": "LA VASCONGADA "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "LA VERDE "
+  },
+  {
+    "FIELD1": 7214,
+    "FIELD2": "B",
+    "FIELD3": "LA VERDE "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "LA VERDE "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "LA VICTORIA "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "LA VICTORIA "
+  },
+  {
+    "FIELD1": 6627,
+    "FIELD2": "B",
+    "FIELD3": "LA VICTORIA DESVIO "
+  },
+  {
+    "FIELD1": 2751,
+    "FIELD2": "B",
+    "FIELD3": "LA VIOLETA "
+  },
+  {
+    "FIELD1": 8115,
+    "FIELD2": "B",
+    "FIELD3": "LA VIRGINIA "
+  },
+  {
+    "FIELD1": 8122,
+    "FIELD2": "B",
+    "FIELD3": "LA VITICOLA "
+  },
+  {
+    "FIELD1": 6513,
+    "FIELD2": "B",
+    "FIELD3": "LA YESCA "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "LA ZANJA "
+  },
+  {
+    "FIELD1": 6077,
+    "FIELD2": "B",
+    "FIELD3": "LA ZARATEÑA "
+  },
+  {
+    "FIELD1": 7161,
+    "FIELD2": "B",
+    "FIELD3": "LABARDEN "
+  },
+  {
+    "FIELD1": 6431,
+    "FIELD2": "B",
+    "FIELD3": "LAGO EPECUEN "
+  },
+  {
+    "FIELD1": 6439,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA ALSINA "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA BRAVA "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA CHASICO "
+  },
+  {
+    "FIELD1": 6001,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA DE GOMEZ "
+  },
+  {
+    "FIELD1": 7240,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA DE LOBOS "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA DE LOS PADRES "
+  },
+  {
+    "FIELD1": 6501,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA DEL CURA "
+  },
+  {
+    "FIELD1": 6435,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA DEL MONTE "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA DEL SOLDADO "
+  },
+  {
+    "FIELD1": 6660,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA LAS MULITAS "
+  },
+  {
+    "FIELD1": 7214,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA MEDINA "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA REDONDA "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "LAGUNA SAUCE GRANDE "
+  },
+  {
+    "FIELD1": 7151,
+    "FIELD2": "B",
+    "FIELD3": "LANGUEYU "
+  },
+  {
+    "FIELD1": 1824,
+    "FIELD2": "B",
+    "FIELD3": "LANUS "
+  },
+  {
+    "FIELD1": 6013,
+    "FIELD2": "B",
+    "FIELD3": "LAPLACETTE "
+  },
+  {
+    "FIELD1": 7414,
+    "FIELD2": "B",
+    "FIELD3": "LAPRIDA "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "LARRAMENDY "
+  },
+  {
+    "FIELD1": 6634,
+    "FIELD2": "B",
+    "FIELD3": "LARREA "
+  },
+  {
+    "FIELD1": 7531,
+    "FIELD2": "B",
+    "FIELD3": "LARTIGAU "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LAS ACHIRAS "
+  },
+  {
+    "FIELD1": 7172,
+    "FIELD2": "B",
+    "FIELD3": "LAS ARMAS "
+  },
+  {
+    "FIELD1": 2916,
+    "FIELD2": "B",
+    "FIELD3": "LAS BAHAMAS "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "LAS BANDURRIAS "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LAS BRUSCAS "
+  },
+  {
+    "FIELD1": 7241,
+    "FIELD2": "B",
+    "FIELD3": "LAS CHACRAS "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LAS CHILCAS "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "LAS CHILCAS "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "LAS CORTADERAS "
+  },
+  {
+    "FIELD1": 8504,
+    "FIELD2": "B",
+    "FIELD3": "LAS CORTADERAS "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "LAS CUATRO HERMANAS "
+  },
+  {
+    "FIELD1": 2741,
+    "FIELD2": "B",
+    "FIELD3": "LAS CUATRO PUERTAS "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "LAS ESCOBAS "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "LAS FLORES "
+  },
+  {
+    "FIELD1": 7200,
+    "FIELD2": "B",
+    "FIELD3": "LAS FLORES "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "LAS GUASQUITAS "
+  },
+  {
+    "FIELD1": 7412,
+    "FIELD2": "B",
+    "FIELD3": "LAS HERMANAS "
+  },
+  {
+    "FIELD1": 8148,
+    "FIELD2": "B",
+    "FIELD3": "LAS ISLETAS "
+  },
+  {
+    "FIELD1": 6476,
+    "FIELD2": "B",
+    "FIELD3": "LAS JUANITAS "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LAS LOMAS "
+  },
+  {
+    "FIELD1": 1748,
+    "FIELD2": "B",
+    "FIELD3": "LAS MALVINAS "
+  },
+  {
+    "FIELD1": 6607,
+    "FIELD2": "B",
+    "FIELD3": "LAS MARIANAS "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "LAS MARTINETAS "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "LAS MERCEDES "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "LAS MOSTAZAS "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LAS MULAS "
+  },
+  {
+    "FIELD1": 6507,
+    "FIELD2": "B",
+    "FIELD3": "LAS NEGRAS "
+  },
+  {
+    "FIELD1": 7316,
+    "FIELD2": "B",
+    "FIELD3": "LAS NIEVES "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "LAS NUTRIAS "
+  },
+  {
+    "FIELD1": 8115,
+    "FIELD2": "B",
+    "FIELD3": "LAS OSCURAS "
+  },
+  {
+    "FIELD1": 7150,
+    "FIELD2": "B",
+    "FIELD3": "LAS PAJAS "
+  },
+  {
+    "FIELD1": 2806,
+    "FIELD2": "B",
+    "FIELD3": "LAS PALMAS "
+  },
+  {
+    "FIELD1": 6022,
+    "FIELD2": "B",
+    "FIELD3": "LAS PARVAS "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "LAS PIEDRITAS "
+  },
+  {
+    "FIELD1": 7605,
+    "FIELD2": "B",
+    "FIELD3": "LAS PIEDRITAS "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "LAS ROSAS "
+  },
+  {
+    "FIELD1": 2707,
+    "FIELD2": "B",
+    "FIELD3": "LAS SALADAS "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "LAS SUIZAS "
+  },
+  {
+    "FIELD1": 7151,
+    "FIELD2": "B",
+    "FIELD3": "LAS SULTANAS "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "LAS TAHONAS "
+  },
+  {
+    "FIELD1": 7106,
+    "FIELD2": "B",
+    "FIELD3": "LAS TONINAS "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LAS TORTUGAS "
+  },
+  {
+    "FIELD1": 6453,
+    "FIELD2": "B",
+    "FIELD3": "LAS TOSCAS "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "LAS TRES FLORES "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "LAS VAQUERIAS "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "LAS VIBORAS "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "LASTRA "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "LAZZARINO "
+  },
+  {
+    "FIELD1": 6032,
+    "FIELD2": "B",
+    "FIELD3": "LEANDRO N ALEM "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "LEGARISTI "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "LERTORA "
+  },
+  {
+    "FIELD1": 6338,
+    "FIELD2": "B",
+    "FIELD3": "LEUBUCO "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "LEZAMA "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "LEZICA Y TORREZURI "
+  },
+  {
+    "FIELD1": 7407,
+    "FIELD2": "B",
+    "FIELD3": "LIBANO "
+  },
+  {
+    "FIELD1": 1716,
+    "FIELD2": "B",
+    "FIELD3": "LIBERTAD "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "LIBRES DEL SUD "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "LICENCIADO MATIENZO "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "LIERRA ADJEMIRO "
+  },
+  {
+    "FIELD1": 2806,
+    "FIELD2": "B",
+    "FIELD3": "LIMA "
+  },
+  {
+    "FIELD1": 7505,
+    "FIELD2": "B",
+    "FIELD3": "LIN CALEL "
+  },
+  {
+    "FIELD1": 6070,
+    "FIELD2": "B",
+    "FIELD3": "LINCOLN "
+  },
+  {
+    "FIELD1": 1901,
+    "FIELD2": "B",
+    "FIELD3": "LISANDRO OLMOS ETCHEVERRY "
+  },
+  {
+    "FIELD1": 1836,
+    "FIELD2": "B",
+    "FIELD3": "LLAVALLOL "
+  },
+  {
+    "FIELD1": 7635,
+    "FIELD2": "B",
+    "FIELD3": "LOBERIA "
+  },
+  {
+    "FIELD1": 7240,
+    "FIELD2": "B",
+    "FIELD3": "LOBOS "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "LOMA DE SALOMON "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "LOMA DEL INDIO "
+  },
+  {
+    "FIELD1": 1657,
+    "FIELD2": "B",
+    "FIELD3": "LOMA HERMOSA "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "LOMA NEGRA "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "LOMA NEGRA "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "LOMA PARTIDA "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "LOMA VERDE "
+  },
+  {
+    "FIELD1": 1981,
+    "FIELD2": "B",
+    "FIELD3": "LOMA VERDE "
+  },
+  {
+    "FIELD1": 1832,
+    "FIELD2": "B",
+    "FIELD3": "LOMAS DE ZAMORA "
+  },
+  {
+    "FIELD1": 1752,
+    "FIELD2": "B",
+    "FIELD3": "LOMAS DEL MIRADOR "
+  },
+  {
+    "FIELD1": 2802,
+    "FIELD2": "B",
+    "FIELD3": "LOMAS DEL RIO LUJAN "
+  },
+  {
+    "FIELD1": 1854,
+    "FIELD2": "B",
+    "FIELD3": "LONGCHAMPS "
+  },
+  {
+    "FIELD1": 7021,
+    "FIELD2": "B",
+    "FIELD3": "LOPEZ "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "LOPEZ LECUBE "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "LOPEZ MOLINARI "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "LOS ALTOS "
+  },
+  {
+    "FIELD1": 2743,
+    "FIELD2": "B",
+    "FIELD3": "LOS ANGELES "
+  },
+  {
+    "FIELD1": 1816,
+    "FIELD2": "B",
+    "FIELD3": "LOS AROMOS "
+  },
+  {
+    "FIELD1": 6018,
+    "FIELD2": "B",
+    "FIELD3": "LOS BOSQUES "
+  },
+  {
+    "FIELD1": 6242,
+    "FIELD2": "B",
+    "FIELD3": "LOS CALDENES "
+  },
+  {
+    "FIELD1": 6062,
+    "FIELD2": "B",
+    "FIELD3": "LOS CALLEJONES "
+  },
+  {
+    "FIELD1": 2814,
+    "FIELD2": "B",
+    "FIELD3": "LOS CARDALES "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "LOS CARDOS "
+  },
+  {
+    "FIELD1": 7226,
+    "FIELD2": "B",
+    "FIELD3": "LOS CERRILLOS "
+  },
+  {
+    "FIELD1": 7635,
+    "FIELD2": "B",
+    "FIELD3": "LOS CERROS "
+  },
+  {
+    "FIELD1": 6475,
+    "FIELD2": "B",
+    "FIELD3": "LOS CHAÑARES "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "LOS CHUCAROS "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "LOS COLONIALES "
+  },
+  {
+    "FIELD1": 7263,
+    "FIELD2": "B",
+    "FIELD3": "LOS CUATRO CAMINOS "
+  },
+  {
+    "FIELD1": 7220,
+    "FIELD2": "B",
+    "FIELD3": "LOS EUCALIPTOS "
+  },
+  {
+    "FIELD1": 1895,
+    "FIELD2": "B",
+    "FIELD3": "LOS EUCALIPTUS CASCO URBANO "
+  },
+  {
+    "FIELD1": 6343,
+    "FIELD2": "B",
+    "FIELD3": "LOS GAUCHOS "
+  },
+  {
+    "FIELD1": 6015,
+    "FIELD2": "B",
+    "FIELD3": "LOS HUESOS "
+  },
+  {
+    "FIELD1": 2709,
+    "FIELD2": "B",
+    "FIELD3": "LOS INDIOS "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "LOS INDIOS "
+  },
+  {
+    "FIELD1": 6230,
+    "FIELD2": "B",
+    "FIELD3": "LOS LAURELES "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "LOS LEONES "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "LOS MERINOS "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "LOS MOLLES "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "LOS ORTIZ "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "LOS PATOS "
+  },
+  {
+    "FIELD1": 7412,
+    "FIELD2": "B",
+    "FIELD3": "LOS PINOS "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "LOS PINOS "
+  },
+  {
+    "FIELD1": 1613,
+    "FIELD2": "B",
+    "FIELD3": "LOS POLVORINES "
+  },
+  {
+    "FIELD1": 8512,
+    "FIELD2": "B",
+    "FIELD3": "LOS POZOS "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "LOS SANTOS VIEJOS "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "LOS TALAS "
+  },
+  {
+    "FIELD1": 6015,
+    "FIELD2": "B",
+    "FIELD3": "LOS TOLDOS "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "LOUGE "
+  },
+  {
+    "FIELD1": 1741,
+    "FIELD2": "B",
+    "FIELD3": "LOZANO "
+  },
+  {
+    "FIELD1": 6661,
+    "FIELD2": "B",
+    "FIELD3": "LUCAS MONTEVERDE "
+  },
+  {
+    "FIELD1": 1917,
+    "FIELD2": "B",
+    "FIELD3": "LUIS CHICO "
+  },
+  {
+    "FIELD1": 1838,
+    "FIELD2": "B",
+    "FIELD3": "LUIS GUILLON "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "LUJAN "
+  },
+  {
+    "FIELD1": 7639,
+    "FIELD2": "B",
+    "FIELD3": "LUMB "
+  },
+  {
+    "FIELD1": 6439,
+    "FIELD2": "B",
+    "FIELD3": "LURO "
+  },
+  {
+    "FIELD1": 7169,
+    "FIELD2": "B",
+    "FIELD3": "MACEDO "
+  },
+  {
+    "FIELD1": 7151,
+    "FIELD2": "B",
+    "FIELD3": "MAGALLANES "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "MAGDALA "
+  },
+  {
+    "FIELD1": 1913,
+    "FIELD2": "B",
+    "FIELD3": "MAGDALENA "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "MAGUIRRE "
+  },
+  {
+    "FIELD1": 7160,
+    "FIELD2": "B",
+    "FIELD3": "MAIPU "
+  },
+  {
+    "FIELD1": 6443,
+    "FIELD2": "B",
+    "FIELD3": "MALABIA "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "MALECON GARDELLA "
+  },
+  {
+    "FIELD1": 1846,
+    "FIELD2": "B",
+    "FIELD3": "MALVINAS ARGENTINAS "
+  },
+  {
+    "FIELD1": 6661,
+    "FIELD2": "B",
+    "FIELD3": "MAMAGUITA "
+  },
+  {
+    "FIELD1": 2717,
+    "FIELD2": "B",
+    "FIELD3": "MANANTIALES "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "MANANTIALES GRANDES "
+  },
+  {
+    "FIELD1": 1667,
+    "FIELD2": "B",
+    "FIELD3": "MANUEL ALBERTI "
+  },
+  {
+    "FIELD1": 1897,
+    "FIELD2": "B",
+    "FIELD3": "MANUEL B GONNET "
+  },
+  {
+    "FIELD1": 6608,
+    "FIELD2": "B",
+    "FIELD3": "MANUEL JOSE GARCIA "
+  },
+  {
+    "FIELD1": 2713,
+    "FIELD2": "B",
+    "FIELD3": "MANUEL OCAMPO "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "MANZANARES "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "MANZO Y NIÑO "
+  },
+  {
+    "FIELD1": 1633,
+    "FIELD2": "B",
+    "FIELD3": "MANZONE "
+  },
+  {
+    "FIELD1": 7633,
+    "FIELD2": "B",
+    "FIELD3": "MAORI "
+  },
+  {
+    "FIELD1": 6557,
+    "FIELD2": "B",
+    "FIELD3": "MAPIS "
+  },
+  {
+    "FIELD1": 1619,
+    "FIELD2": "B",
+    "FIELD3": "MAQUINISTA F SAVIO "
+  },
+  {
+    "FIELD1": 7165,
+    "FIELD2": "B",
+    "FIELD3": "MAR AZUL "
+  },
+  {
+    "FIELD1": 7174,
+    "FIELD2": "B",
+    "FIELD3": "MAR CHIQUITA "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "MAR DE AJO "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "MAR DE COBO "
+  },
+  {
+    "FIELD1": 7165,
+    "FIELD2": "B",
+    "FIELD3": "MAR DE LAS PAMPAS "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "MAR DEL PLATA "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "MAR DEL SUD "
+  },
+  {
+    "FIELD1": 7108,
+    "FIELD2": "B",
+    "FIELD3": "MAR DEL TUYU "
+  },
+  {
+    "FIELD1": 2741,
+    "FIELD2": "B",
+    "FIELD3": "MARCELINO UGARTE "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B BERNASCONI "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B EL MARTILLO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B EL MORO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B EL ZORZAL "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B LA LONJA "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B LA MILAGROSA "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B MARTIN FIERRO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "MARCOS PAZ B URIOSTE "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "MARI LAUQUEN "
+  },
+  {
+    "FIELD1": 7003,
+    "FIELD2": "B",
+    "FIELD3": "MARIA IGNACIA "
+  },
+  {
+    "FIELD1": 6467,
+    "FIELD2": "B",
+    "FIELD3": "MARIA LUCILA "
+  },
+  {
+    "FIELD1": 6337,
+    "FIELD2": "B",
+    "FIELD3": "MARIA P MORENO "
+  },
+  {
+    "FIELD1": 1723,
+    "FIELD2": "B",
+    "FIELD3": "MARIANO ACOSTA "
+  },
+  {
+    "FIELD1": 2701,
+    "FIELD2": "B",
+    "FIELD3": "MARIANO BENITEZ "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "MARIANO H ALFONZO "
+  },
+  {
+    "FIELD1": 7517,
+    "FIELD2": "B",
+    "FIELD3": "MARIANO ROLDAN "
+  },
+  {
+    "FIELD1": 6551,
+    "FIELD2": "B",
+    "FIELD3": "MARIANO UNZUE "
+  },
+  {
+    "FIELD1": 6708,
+    "FIELD2": "B",
+    "FIELD3": "MARISCAL SUCRE "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "MARTIN BERRAONDO "
+  },
+  {
+    "FIELD1": 1682,
+    "FIELD2": "B",
+    "FIELD3": "MARTIN CORONADO "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "MARTIN FIERRO "
+  },
+  {
+    "FIELD1": 7311,
+    "FIELD2": "B",
+    "FIELD3": "MARTIN FIERRO "
+  },
+  {
+    "FIELD1": 1640,
+    "FIELD2": "B",
+    "FIELD3": "MARTINEZ "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "MARUCHA "
+  },
+  {
+    "FIELD1": 6438,
+    "FIELD2": "B",
+    "FIELD3": "MASUREL "
+  },
+  {
+    "FIELD1": 1627,
+    "FIELD2": "B",
+    "FIELD3": "MATHEU "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "MAURAS "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "MAURICIO HIRSCH "
+  },
+  {
+    "FIELD1": 6645,
+    "FIELD2": "B",
+    "FIELD3": "MAXIMO FERNANDEZ "
+  },
+  {
+    "FIELD1": 1812,
+    "FIELD2": "B",
+    "FIELD3": "MAXIMO PAZ "
+  },
+  {
+    "FIELD1": 8146,
+    "FIELD2": "B",
+    "FIELD3": "MAYOR BURATOVICH "
+  },
+  {
+    "FIELD1": 6053,
+    "FIELD2": "B",
+    "FIELD3": "MAYOR JOSE ORELLANO "
+  },
+  {
+    "FIELD1": 6343,
+    "FIELD2": "B",
+    "FIELD3": "MAZA "
+  },
+  {
+    "FIELD1": 6648,
+    "FIELD2": "B",
+    "FIELD3": "MECHA "
+  },
+  {
+    "FIELD1": 6648,
+    "FIELD2": "B",
+    "FIELD3": "MECHITA "
+  },
+  {
+    "FIELD1": 7605,
+    "FIELD2": "B",
+    "FIELD3": "MECHONGUE "
+  },
+  {
+    "FIELD1": 7169,
+    "FIELD2": "B",
+    "FIELD3": "MEDALAND "
+  },
+  {
+    "FIELD1": 7630,
+    "FIELD2": "B",
+    "FIELD3": "MEDANO BLANCO "
+  },
+  {
+    "FIELD1": 8132,
+    "FIELD2": "B",
+    "FIELD3": "MEDANOS "
+  },
+  {
+    "FIELD1": 1903,
+    "FIELD2": "B",
+    "FIELD3": "MELCHOR ROMERO "
+  },
+  {
+    "FIELD1": 6748,
+    "FIELD2": "B",
+    "FIELD3": "MEMBRILLAR "
+  },
+  {
+    "FIELD1": 1771,
+    "FIELD2": "B",
+    "FIELD3": "MERCADO CENTRAL "
+  },
+  {
+    "FIELD1": 6600,
+    "FIELD2": "B",
+    "FIELD3": "MERCEDES "
+  },
+  {
+    "FIELD1": 6239,
+    "FIELD2": "B",
+    "FIELD3": "MERIDIANO VO "
+  },
+  {
+    "FIELD1": 1722,
+    "FIELD2": "B",
+    "FIELD3": "MERLO "
+  },
+  {
+    "FIELD1": 7507,
+    "FIELD2": "B",
+    "FIELD3": "MICAELA CASCALLARES "
+  },
+  {
+    "FIELD1": 1852,
+    "FIELD2": "B",
+    "FIELD3": "MINISTRO RIVADAVIA "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "MIRA PAMPA "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "MIRAMAR "
+  },
+  {
+    "FIELD1": 7214,
+    "FIELD2": "B",
+    "FIELD3": "MIRAMONTE "
+  },
+  {
+    "FIELD1": 7201,
+    "FIELD2": "B",
+    "FIELD3": "MIRANDA "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "MOCTEZUMA "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "MOLINO GALILEO "
+  },
+  {
+    "FIELD1": 6627,
+    "FIELD2": "B",
+    "FIELD3": "MOLL "
+  },
+  {
+    "FIELD1": 7136,
+    "FIELD2": "B",
+    "FIELD3": "MONASTERIO "
+  },
+  {
+    "FIELD1": 6469,
+    "FIELD2": "B",
+    "FIELD3": "MONES CAZON "
+  },
+  {
+    "FIELD1": 2743,
+    "FIELD2": "B",
+    "FIELD3": "MONROE "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "MONSALVO "
+  },
+  {
+    "FIELD1": 1825,
+    "FIELD2": "B",
+    "FIELD3": "MONTE CHINGOLO "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "MONTE CRESPO "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "MONTE FIORE "
+  },
+  {
+    "FIELD1": 1842,
+    "FIELD2": "B",
+    "FIELD3": "MONTE GRANDE "
+  },
+  {
+    "FIELD1": 8153,
+    "FIELD2": "B",
+    "FIELD3": "MONTE HERMOSO "
+  },
+  {
+    "FIELD1": 1917,
+    "FIELD2": "B",
+    "FIELD3": "MONTE VELOZ "
+  },
+  {
+    "FIELD1": 7167,
+    "FIELD2": "B",
+    "FIELD3": "MONTECARLO "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "MONTES DE OCA "
+  },
+  {
+    "FIELD1": 6230,
+    "FIELD2": "B",
+    "FIELD3": "MOORES "
+  },
+  {
+    "FIELD1": 6507,
+    "FIELD2": "B",
+    "FIELD3": "MOREA "
+  },
+  {
+    "FIELD1": 1744,
+    "FIELD2": "B",
+    "FIELD3": "MORENO "
+  },
+  {
+    "FIELD1": 1708,
+    "FIELD2": "B",
+    "FIELD3": "MORON "
+  },
+  {
+    "FIELD1": 6013,
+    "FIELD2": "B",
+    "FIELD3": "MORSE "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "MOURAS "
+  },
+  {
+    "FIELD1": 6501,
+    "FIELD2": "B",
+    "FIELD3": "MULCAHY "
+  },
+  {
+    "FIELD1": 1663,
+    "FIELD2": "B",
+    "FIELD3": "MUÑIZ "
+  },
+  {
+    "FIELD1": 7404,
+    "FIELD2": "B",
+    "FIELD3": "MUÑOZ "
+  },
+  {
+    "FIELD1": 1605,
+    "FIELD2": "B",
+    "FIELD3": "MUNRO "
+  },
+  {
+    "FIELD1": 2909,
+    "FIELD2": "B",
+    "FIELD3": "MUTTI "
+  },
+  {
+    "FIELD1": 7613,
+    "FIELD2": "B",
+    "FIELD3": "NAHUEL RUCA "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "NAPALEOFU "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "NAVARRO "
+  },
+  {
+    "FIELD1": 7630,
+    "FIELD2": "B",
+    "FIELD3": "NECOCHEA "
+  },
+  {
+    "FIELD1": 6077,
+    "FIELD2": "B",
+    "FIELD3": "NECOL ESTACION FCGM "
+  },
+  {
+    "FIELD1": 7223,
+    "FIELD2": "B",
+    "FIELD3": "NEWTON "
+  },
+  {
+    "FIELD1": 7637,
+    "FIELD2": "B",
+    "FIELD3": "NICANOR OLIVERA "
+  },
+  {
+    "FIELD1": 8151,
+    "FIELD2": "B",
+    "FIELD3": "NICOLAS DESCALZI "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "NICOLAS LEVALLE "
+  },
+  {
+    "FIELD1": 7316,
+    "FIELD2": "B",
+    "FIELD3": "NIEVES "
+  },
+  {
+    "FIELD1": 6663,
+    "FIELD2": "B",
+    "FIELD3": "NORBERTO DE LA RIESTRA "
+  },
+  {
+    "FIELD1": 1670,
+    "FIELD2": "B",
+    "FIELD3": "NORDELTA "
+  },
+  {
+    "FIELD1": 6501,
+    "FIELD2": "B",
+    "FIELD3": "NORUMBEGA "
+  },
+  {
+    "FIELD1": 7113,
+    "FIELD2": "B",
+    "FIELD3": "NUEVA ATLANTIS "
+  },
+  {
+    "FIELD1": 6553,
+    "FIELD2": "B",
+    "FIELD3": "NUEVA ESPAÑA "
+  },
+  {
+    "FIELD1": 1907,
+    "FIELD2": "B",
+    "FIELD3": "NUEVA HERMOSURA "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "NUEVA PLATA "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "NUEVA ROMA "
+  },
+  {
+    "FIELD1": 6077,
+    "FIELD2": "B",
+    "FIELD3": "NUEVA SUIZA "
+  },
+  {
+    "FIELD1": 6748,
+    "FIELD2": "B",
+    "FIELD3": "O HIGGINS "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "OCHANDIO "
+  },
+  {
+    "FIELD1": 6537,
+    "FIELD2": "B",
+    "FIELD3": "ODORQUI "
+  },
+  {
+    "FIELD1": 6652,
+    "FIELD2": "B",
+    "FIELD3": "OLASCOAGA "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "OLAVARRIA "
+  },
+  {
+    "FIELD1": 1981,
+    "FIELD2": "B",
+    "FIELD3": "OLIDEN "
+  },
+  {
+    "FIELD1": 2931,
+    "FIELD2": "B",
+    "FIELD3": "OLIVEIRA CESAR "
+  },
+  {
+    "FIELD1": 6608,
+    "FIELD2": "B",
+    "FIELD3": "OLIVERA "
+  },
+  {
+    "FIELD1": 1636,
+    "FIELD2": "B",
+    "FIELD3": "OLIVOS "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "OMBU "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "OMBUCTA "
+  },
+  {
+    "FIELD1": 6708,
+    "FIELD2": "B",
+    "FIELD3": "OPEN DOOR "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "ORENSE "
+  },
+  {
+    "FIELD1": 7509,
+    "FIELD2": "B",
+    "FIELD3": "ORIENTE "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "ORLANDO "
+  },
+  {
+    "FIELD1": 2703,
+    "FIELD2": "B",
+    "FIELD3": "ORTIZ BASUALDO "
+  },
+  {
+    "FIELD1": 6660,
+    "FIELD2": "B",
+    "FIELD3": "ORTIZ DE ROSAS "
+  },
+  {
+    "FIELD1": 7167,
+    "FIELD2": "B",
+    "FIELD3": "OSTENDE "
+  },
+  {
+    "FIELD1": 2802,
+    "FIELD2": "B",
+    "FIELD3": "OTAMENDI "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "OTOÑO "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "PABLO ACOSTA "
+  },
+  {
+    "FIELD1": 1613,
+    "FIELD2": "B",
+    "FIELD3": "PABLO NOGUES "
+  },
+  {
+    "FIELD1": 1657,
+    "FIELD2": "B",
+    "FIELD3": "PABLO PODESTA "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "PACHAN "
+  },
+  {
+    "FIELD1": 6434,
+    "FIELD2": "B",
+    "FIELD3": "PALANTELEN "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "PALEMON HUERGO "
+  },
+  {
+    "FIELD1": 7221,
+    "FIELD2": "B",
+    "FIELD3": "PALMITAS "
+  },
+  {
+    "FIELD1": 1923,
+    "FIELD2": "B",
+    "FIELD3": "PALO BLANCO "
+  },
+  {
+    "FIELD1": 2931,
+    "FIELD2": "B",
+    "FIELD3": "PANAME "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "PANCHO DIAZ "
+  },
+  {
+    "FIELD1": 6411,
+    "FIELD2": "B",
+    "FIELD3": "PAPIN "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "PARADA KILOMETRO 158 "
+  },
+  {
+    "FIELD1": 1739,
+    "FIELD2": "B",
+    "FIELD3": "PARADA KILOMETRO 76 "
+  },
+  {
+    "FIELD1": 6703,
+    "FIELD2": "B",
+    "FIELD3": "PARADA ROBLES "
+  },
+  {
+    "FIELD1": 6725,
+    "FIELD2": "B",
+    "FIELD3": "PARADA TATAY "
+  },
+  {
+    "FIELD1": 7412,
+    "FIELD2": "B",
+    "FIELD3": "PARAG&Uuml;IL "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE FRA PAL "
+  },
+  {
+    "FIELD1": 8158,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE LA AURORA "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE LA VASCA "
+  },
+  {
+    "FIELD1": 6550,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE MIRAMAR "
+  },
+  {
+    "FIELD1": 7540,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE SANTA ANA "
+  },
+  {
+    "FIELD1": 2711,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE SANTA ROSA "
+  },
+  {
+    "FIELD1": 1915,
+    "FIELD2": "B",
+    "FIELD3": "PARAJE STARACHE "
+  },
+  {
+    "FIELD1": 7212,
+    "FIELD2": "B",
+    "FIELD3": "PARDO "
+  },
+  {
+    "FIELD1": 7316,
+    "FIELD2": "B",
+    "FIELD3": "PARISH "
+  },
+  {
+    "FIELD1": 7167,
+    "FIELD2": "B",
+    "FIELD3": "PARQUE CARILO "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "PARQUE MUÑOZ "
+  },
+  {
+    "FIELD1": 1722,
+    "FIELD2": "B",
+    "FIELD3": "PARQUE SAN MARTIN "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "PARQUE TAILLADE "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "PARRAVICHINI "
+  },
+  {
+    "FIELD1": 7547,
+    "FIELD2": "B",
+    "FIELD3": "PASMAN "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "PASO ALSINA "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "PASO CRAMER "
+  },
+  {
+    "FIELD1": 7511,
+    "FIELD2": "B",
+    "FIELD3": "PASO DEL MEDANO "
+  },
+  {
+    "FIELD1": 1742,
+    "FIELD2": "B",
+    "FIELD3": "PASO DEL REY "
+  },
+  {
+    "FIELD1": 8115,
+    "FIELD2": "B",
+    "FIELD3": "PASO MAYOR "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "PASOS "
+  },
+  {
+    "FIELD1": 6077,
+    "FIELD2": "B",
+    "FIELD3": "PASTEUR "
+  },
+  {
+    "FIELD1": 6503,
+    "FIELD2": "B",
+    "FIELD3": "PATRICIOS "
+  },
+  {
+    "FIELD1": 6557,
+    "FIELD2": "B",
+    "FIELD3": "PAULA "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "PAVON "
+  },
+  {
+    "FIELD1": 1913,
+    "FIELD2": "B",
+    "FIELD3": "PAYRO R "
+  },
+  {
+    "FIELD1": 6058,
+    "FIELD2": "B",
+    "FIELD3": "PAZOS KANKI "
+  },
+  {
+    "FIELD1": 2711,
+    "FIELD2": "B",
+    "FIELD3": "PEARSON "
+  },
+  {
+    "FIELD1": 6665,
+    "FIELD2": "B",
+    "FIELD3": "PEDERNALES "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "PEDRO GAMEN "
+  },
+  {
+    "FIELD1": 7515,
+    "FIELD2": "B",
+    "FIELD3": "PEDRO LASALLE "
+  },
+  {
+    "FIELD1": 8148,
+    "FIELD2": "B",
+    "FIELD3": "PEDRO LURO "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "PEDRO NICOLAS ESCRIBANO "
+  },
+  {
+    "FIELD1": 6450,
+    "FIELD2": "B",
+    "FIELD3": "PEHUAJO "
+  },
+  {
+    "FIELD1": 6409,
+    "FIELD2": "B",
+    "FIELD3": "PEHUELCHES "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "PEHUEN CO "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "PELICURA "
+  },
+  {
+    "FIELD1": 6346,
+    "FIELD2": "B",
+    "FIELD3": "PELLEGRINI "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "PEÑAFLOR "
+  },
+  {
+    "FIELD1": 1894,
+    "FIELD2": "B",
+    "FIELD3": "PEREYRA "
+  },
+  {
+    "FIELD1": 1894,
+    "FIELD2": "B",
+    "FIELD3": "PEREYRA IRAOLA PARQUE "
+  },
+  {
+    "FIELD1": 2933,
+    "FIELD2": "B",
+    "FIELD3": "PEREZ MILLAN "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "PERGAMINO "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "PESSAGNO "
+  },
+  {
+    "FIELD1": 6051,
+    "FIELD2": "B",
+    "FIELD3": "PICHINCHA "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "PIEDRA ANCHA "
+  },
+  {
+    "FIELD1": 6241,
+    "FIELD2": "B",
+    "FIELD3": "PIEDRITAS "
+  },
+  {
+    "FIELD1": 7633,
+    "FIELD2": "B",
+    "FIELD3": "PIERES "
+  },
+  {
+    "FIELD1": 7517,
+    "FIELD2": "B",
+    "FIELD3": "PIERINI "
+  },
+  {
+    "FIELD1": 8170,
+    "FIELD2": "B",
+    "FIELD3": "PIGUE "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "PILA "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "PILAR "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "PILLAHUINCO "
+  },
+  {
+    "FIELD1": 7167,
+    "FIELD2": "B",
+    "FIELD3": "PINAMAR "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "PIÑEIRO "
+  },
+  {
+    "FIELD1": 1870,
+    "FIELD2": "B",
+    "FIELD3": "PIÑEYRO "
+  },
+  {
+    "FIELD1": 7540,
+    "FIELD2": "B",
+    "FIELD3": "PIÑEYRO "
+  },
+  {
+    "FIELD1": 2703,
+    "FIELD2": "B",
+    "FIELD3": "PINZON "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "PIPINAS "
+  },
+  {
+    "FIELD1": 6551,
+    "FIELD2": "B",
+    "FIELD3": "PIROVANO "
+  },
+  {
+    "FIELD1": 2705,
+    "FIELD2": "B",
+    "FIELD3": "PIRUCO "
+  },
+  {
+    "FIELD1": 6634,
+    "FIELD2": "B",
+    "FIELD3": "PLA "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "PLA Y RAGNONI "
+  },
+  {
+    "FIELD1": 1885,
+    "FIELD2": "B",
+    "FIELD3": "PLATANOS "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "PLAYA CHAPADMALAL "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "PLAYA LAS MARGARITAS "
+  },
+  {
+    "FIELD1": 7201,
+    "FIELD2": "B",
+    "FIELD3": "PLAZA MONTERO "
+  },
+  {
+    "FIELD1": 1733,
+    "FIELD2": "B",
+    "FIELD3": "PLOMER "
+  },
+  {
+    "FIELD1": 2703,
+    "FIELD2": "B",
+    "FIELD3": "PLUMACHO "
+  },
+  {
+    "FIELD1": 1905,
+    "FIELD2": "B",
+    "FIELD3": "POBLET "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "POCITO "
+  },
+  {
+    "FIELD1": 7267,
+    "FIELD2": "B",
+    "FIELD3": "POLVAREDAS "
+  },
+  {
+    "FIELD1": 7535,
+    "FIELD2": "B",
+    "FIELD3": "PONTAUT "
+  },
+  {
+    "FIELD1": 1761,
+    "FIELD2": "B",
+    "FIELD3": "PONTEVEDRA "
+  },
+  {
+    "FIELD1": 6063,
+    "FIELD2": "B",
+    "FIELD3": "PORVENIR "
+  },
+  {
+    "FIELD1": 7404,
+    "FIELD2": "B",
+    "FIELD3": "POURTALE "
+  },
+  {
+    "FIELD1": 6231,
+    "FIELD2": "B",
+    "FIELD3": "PRADERE JUAN A "
+  },
+  {
+    "FIELD1": 1635,
+    "FIELD2": "B",
+    "FIELD3": "PRESIDENTE DERQUI "
+  },
+  {
+    "FIELD1": 6621,
+    "FIELD2": "B",
+    "FIELD3": "PRESIDENTE QUINTANA "
+  },
+  {
+    "FIELD1": 6422,
+    "FIELD2": "B",
+    "FIELD3": "PRIMERA JUNTA "
+  },
+  {
+    "FIELD1": 8180,
+    "FIELD2": "B",
+    "FIELD3": "PUAN "
+  },
+  {
+    "FIELD1": 6661,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLITOS "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO MARTINEZ DE HOZ "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO NUEVO "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO NUEVO "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO NUEVO "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO OTERO "
+  },
+  {
+    "FIELD1": 6450,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO SAN ESTEBAN "
+  },
+  {
+    "FIELD1": 7541,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO SAN JOSE "
+  },
+  {
+    "FIELD1": 7541,
+    "FIELD2": "B",
+    "FIELD3": "PUEBLO SANTA MARIA "
+  },
+  {
+    "FIELD1": 6620,
+    "FIELD2": "B",
+    "FIELD3": "PUENTE BATALLA "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "PUENTE CAÑETE "
+  },
+  {
+    "FIELD1": 2760,
+    "FIELD2": "B",
+    "FIELD3": "PUENTE CASTEX "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "PUENTE EL OCHENTA "
+  },
+  {
+    "FIELD1": 8111,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO BELGRANO "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO COLOMA "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO DE ESCOBAR "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO GALVAN "
+  },
+  {
+    "FIELD1": 1925,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO LA PLATA "
+  },
+  {
+    "FIELD1": 7641,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO NECOCHEA "
+  },
+  {
+    "FIELD1": 8111,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO ROSALES "
+  },
+  {
+    "FIELD1": 8508,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO TRES BONETES "
+  },
+  {
+    "FIELD1": 8506,
+    "FIELD2": "B",
+    "FIELD3": "PUERTO WASSERMANN "
+  },
+  {
+    "FIELD1": 2763,
+    "FIELD2": "B",
+    "FIELD3": "PUESTO DEL MEDIO "
+  },
+  {
+    "FIELD1": 2907,
+    "FIELD2": "B",
+    "FIELD3": "PUJOL "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "PUNTA ALTA "
+  },
+  {
+    "FIELD1": 1623,
+    "FIELD2": "B",
+    "FIELD3": "PUNTA DE CANAL "
+  },
+  {
+    "FIELD1": 1917,
+    "FIELD2": "B",
+    "FIELD3": "PUNTA INDIO "
+  },
+  {
+    "FIELD1": 1931,
+    "FIELD2": "B",
+    "FIELD3": "PUNTA LARA "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "PUNTA MEDANOS "
+  },
+  {
+    "FIELD1": 6335,
+    "FIELD2": "B",
+    "FIELD3": "QUENUMA "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "QUEQUEN "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "QUILCO "
+  },
+  {
+    "FIELD1": 1878,
+    "FIELD2": "B",
+    "FIELD3": "QUILMES "
+  },
+  {
+    "FIELD1": 1879,
+    "FIELD2": "B",
+    "FIELD3": "QUILMES OESTE "
+  },
+  {
+    "FIELD1": 7533,
+    "FIELD2": "B",
+    "FIELD3": "QUIÑIHUAL ESTACION "
+  },
+  {
+    "FIELD1": 6018,
+    "FIELD2": "B",
+    "FIELD3": "QUIRNO COSTA "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "QUIROGA "
+  },
+  {
+    "FIELD1": 1847,
+    "FIELD2": "B",
+    "FIELD3": "RAFAEL CALZADA "
+  },
+  {
+    "FIELD1": 1755,
+    "FIELD2": "B",
+    "FIELD3": "RAFAEL CASTILLO "
+  },
+  {
+    "FIELD1": 6001,
+    "FIELD2": "B",
+    "FIELD3": "RAFAEL OBLIGADO "
+  },
+  {
+    "FIELD1": 2915,
+    "FIELD2": "B",
+    "FIELD3": "RAMALLO "
+  },
+  {
+    "FIELD1": 6627,
+    "FIELD2": "B",
+    "FIELD3": "RAMON BIAUS "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "RAMON J NEILD "
+  },
+  {
+    "FIELD1": 7641,
+    "FIELD2": "B",
+    "FIELD3": "RAMON SANTAMARINA "
+  },
+  {
+    "FIELD1": 1704,
+    "FIELD2": "B",
+    "FIELD3": "RAMOS MEJIA "
+  },
+  {
+    "FIELD1": 7621,
+    "FIELD2": "B",
+    "FIELD3": "RAMOS OTERO "
+  },
+  {
+    "FIELD1": 2701,
+    "FIELD2": "B",
+    "FIELD3": "RANCAGUA "
+  },
+  {
+    "FIELD1": 1987,
+    "FIELD2": "B",
+    "FIELD3": "RANCHOS "
+  },
+  {
+    "FIELD1": 1886,
+    "FIELD2": "B",
+    "FIELD3": "RANELAGH "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "RAUCH "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "RAULET "
+  },
+  {
+    "FIELD1": 6734,
+    "FIELD2": "B",
+    "FIELD3": "RAWSON "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "REAL AUDIENCIA "
+  },
+  {
+    "FIELD1": 6559,
+    "FIELD2": "B",
+    "FIELD3": "RECALDE "
+  },
+  {
+    "FIELD1": 6533,
+    "FIELD2": "B",
+    "FIELD3": "REGINALDO J NEILD "
+  },
+  {
+    "FIELD1": 1657,
+    "FIELD2": "B",
+    "FIELD3": "REMEDIOS DE ESCALADA "
+  },
+  {
+    "FIELD1": 1826,
+    "FIELD2": "B",
+    "FIELD3": "REMEDIOS DE ESCALADA "
+  },
+  {
+    "FIELD1": 7307,
+    "FIELD2": "B",
+    "FIELD3": "REQUENA "
+  },
+  {
+    "FIELD1": 7511,
+    "FIELD2": "B",
+    "FIELD3": "RETA "
+  },
+  {
+    "FIELD1": 2752,
+    "FIELD2": "B",
+    "FIELD3": "RETIRO SAN PABLO "
+  },
+  {
+    "FIELD1": 7313,
+    "FIELD2": "B",
+    "FIELD3": "RICARDO GAVIÑA "
+  },
+  {
+    "FIELD1": 1618,
+    "FIELD2": "B",
+    "FIELD3": "RICARDO ROJAS "
+  },
+  {
+    "FIELD1": 7621,
+    "FIELD2": "B",
+    "FIELD3": "RINCON DE BAUDRIX "
+  },
+  {
+    "FIELD1": 1648,
+    "FIELD2": "B",
+    "FIELD3": "RINCON DE MILBERG "
+  },
+  {
+    "FIELD1": 1921,
+    "FIELD2": "B",
+    "FIELD3": "RINCON DE NOARIO "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "RINCON DE VIVOT "
+  },
+  {
+    "FIELD1": 6605,
+    "FIELD2": "B",
+    "FIELD3": "RINCON NORTE "
+  },
+  {
+    "FIELD1": 2944,
+    "FIELD2": "B",
+    "FIELD3": "RIO TALA "
+  },
+  {
+    "FIELD1": 6237,
+    "FIELD2": "B",
+    "FIELD3": "RIVADAVIA "
+  },
+  {
+    "FIELD1": 8127,
+    "FIELD2": "B",
+    "FIELD3": "RIVADEO "
+  },
+  {
+    "FIELD1": 6441,
+    "FIELD2": "B",
+    "FIELD3": "RIVERA "
+  },
+  {
+    "FIELD1": 2703,
+    "FIELD2": "B",
+    "FIELD3": "ROBERTO CANO "
+  },
+  {
+    "FIELD1": 1915,
+    "FIELD2": "B",
+    "FIELD3": "ROBERTO PAYRO "
+  },
+  {
+    "FIELD1": 6075,
+    "FIELD2": "B",
+    "FIELD3": "ROBERTS "
+  },
+  {
+    "FIELD1": 7404,
+    "FIELD2": "B",
+    "FIELD3": "ROCHA "
+  },
+  {
+    "FIELD1": 2705,
+    "FIELD2": "B",
+    "FIELD3": "ROJAS "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "ROLITO ESTACION FCGB "
+  },
+  {
+    "FIELD1": 6612,
+    "FIELD2": "B",
+    "FIELD3": "ROMAN BAEZ "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "ROOSEVELT "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "ROQUE PEREZ "
+  },
+  {
+    "FIELD1": 7205,
+    "FIELD2": "B",
+    "FIELD3": "ROSAS "
+  },
+  {
+    "FIELD1": 6450,
+    "FIELD2": "B",
+    "FIELD3": "ROVIRA "
+  },
+  {
+    "FIELD1": 6720,
+    "FIELD2": "B",
+    "FIELD3": "RUIZ SOLIS "
+  },
+  {
+    "FIELD1": 1907,
+    "FIELD2": "B",
+    "FIELD3": "RUTA 11 KILOMETRO 23 "
+  },
+  {
+    "FIELD1": 1816,
+    "FIELD2": "B",
+    "FIELD3": "RUTA 205 KILOMETRO 57 "
+  },
+  {
+    "FIELD1": 1816,
+    "FIELD2": "B",
+    "FIELD3": "RUTA 3 KILOMETRO 75 700 "
+  },
+  {
+    "FIELD1": 6703,
+    "FIELD2": "B",
+    "FIELD3": "RUTA 8 KILOMETRO 77 "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "RUTA 9 KILOMETRO 169 5 "
+  },
+  {
+    "FIELD1": 2804,
+    "FIELD2": "B",
+    "FIELD3": "RUTA 9 KILOMETRO 72 "
+  },
+  {
+    "FIELD1": 8174,
+    "FIELD2": "B",
+    "FIELD3": "SAAVEDRA "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "SABBI "
+  },
+  {
+    "FIELD1": 6022,
+    "FIELD2": "B",
+    "FIELD3": "SAFORCADA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "SALADA CHICA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "SALADA GRANDE "
+  },
+  {
+    "FIELD1": 7260,
+    "FIELD2": "B",
+    "FIELD3": "SALADILLO "
+  },
+  {
+    "FIELD1": 7261,
+    "FIELD2": "B",
+    "FIELD3": "SALADILLO NORTE "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "SALAZAR "
+  },
+  {
+    "FIELD1": 8166,
+    "FIELD2": "B",
+    "FIELD3": "SALDUNGARAY "
+  },
+  {
+    "FIELD1": 8506,
+    "FIELD2": "B",
+    "FIELD3": "SALINA DE PIEDRA "
+  },
+  {
+    "FIELD1": 8134,
+    "FIELD2": "B",
+    "FIELD3": "SALINAS CHICAS "
+  },
+  {
+    "FIELD1": 6339,
+    "FIELD2": "B",
+    "FIELD3": "SALLIQUELO "
+  },
+  {
+    "FIELD1": 2741,
+    "FIELD2": "B",
+    "FIELD3": "SALTO "
+  },
+  {
+    "FIELD1": 7241,
+    "FIELD2": "B",
+    "FIELD3": "SALVADOR MARIA "
+  },
+  {
+    "FIELD1": 1980,
+    "FIELD2": "B",
+    "FIELD3": "SAMBOROMBON "
+  },
+  {
+    "FIELD1": 8142,
+    "FIELD2": "B",
+    "FIELD3": "SAN ADOLFO "
+  },
+  {
+    "FIELD1": 7623,
+    "FIELD2": "B",
+    "FIELD3": "SAN AGUSTIN "
+  },
+  {
+    "FIELD1": 7620,
+    "FIELD2": "B",
+    "FIELD3": "SAN ALBERTO "
+  },
+  {
+    "FIELD1": 1651,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANDRES "
+  },
+  {
+    "FIELD1": 6551,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANDRES "
+  },
+  {
+    "FIELD1": 8180,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANDRES "
+  },
+  {
+    "FIELD1": 6720,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANDRES DE GILES "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANDRES DE TAPALQUE "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANTONIO "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANTONIO "
+  },
+  {
+    "FIELD1": 2760,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANTONIO DE ARECO "
+  },
+  {
+    "FIELD1": 1718,
+    "FIELD2": "B",
+    "FIELD3": "SAN ANTONIO DE PADUA "
+  },
+  {
+    "FIELD1": 7261,
+    "FIELD2": "B",
+    "FIELD3": "SAN BENITO "
+  },
+  {
+    "FIELD1": 6476,
+    "FIELD2": "B",
+    "FIELD3": "SAN BERNARDO "
+  },
+  {
+    "FIELD1": 6561,
+    "FIELD2": "B",
+    "FIELD3": "SAN BERNARDO "
+  },
+  {
+    "FIELD1": 7111,
+    "FIELD2": "B",
+    "FIELD3": "SAN BERNARDO DEL TUYU "
+  },
+  {
+    "FIELD1": 7011,
+    "FIELD2": "B",
+    "FIELD3": "SAN CALA "
+  },
+  {
+    "FIELD1": 6451,
+    "FIELD2": "B",
+    "FIELD3": "SAN CARLOS "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "SAN CAYETANO "
+  },
+  {
+    "FIELD1": 7105,
+    "FIELD2": "B",
+    "FIELD3": "SAN CLEMENTE DEL TUYU "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "SAN CORNELIO "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "SAN DANIEL "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "SAN EDUARDO DEL MAR "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "SAN ELADIO "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "SAN EMILIO "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "SAN EMILIO "
+  },
+  {
+    "FIELD1": 6661,
+    "FIELD2": "B",
+    "FIELD3": "SAN ENRIQUE "
+  },
+  {
+    "FIELD1": 7116,
+    "FIELD2": "B",
+    "FIELD3": "SAN ENRIQUE "
+  },
+  {
+    "FIELD1": 6725,
+    "FIELD2": "B",
+    "FIELD3": "SAN ERNESTO "
+  },
+  {
+    "FIELD1": 2711,
+    "FIELD2": "B",
+    "FIELD3": "SAN FEDERICO "
+  },
+  {
+    "FIELD1": 7603,
+    "FIELD2": "B",
+    "FIELD3": "SAN FELIPE "
+  },
+  {
+    "FIELD1": 6417,
+    "FIELD2": "B",
+    "FIELD3": "SAN FERMIN "
+  },
+  {
+    "FIELD1": 1646,
+    "FIELD2": "B",
+    "FIELD3": "SAN FERNANDO "
+  },
+  {
+    "FIELD1": 7505,
+    "FIELD2": "B",
+    "FIELD3": "SAN FRANCISCO DE BELLOCQ "
+  },
+  {
+    "FIELD1": 1846,
+    "FIELD2": "B",
+    "FIELD3": "SAN FRANCISCO SOLANO "
+  },
+  {
+    "FIELD1": 1881,
+    "FIELD2": "B",
+    "FIELD3": "SAN FRANCISCO SOLANO "
+  },
+  {
+    "FIELD1": 8124,
+    "FIELD2": "B",
+    "FIELD3": "SAN GERMAN "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "SAN GERVACIO "
+  },
+  {
+    "FIELD1": 7151,
+    "FIELD2": "B",
+    "FIELD3": "SAN IGNACIO "
+  },
+  {
+    "FIELD1": 1642,
+    "FIELD2": "B",
+    "FIELD3": "SAN ISIDRO "
+  },
+  {
+    "FIELD1": 6600,
+    "FIELD2": "B",
+    "FIELD3": "SAN JACINTO "
+  },
+  {
+    "FIELD1": 7400,
+    "FIELD2": "B",
+    "FIELD3": "SAN JACINTO "
+  },
+  {
+    "FIELD1": 7404,
+    "FIELD2": "B",
+    "FIELD3": "SAN JORGE "
+  },
+  {
+    "FIELD1": 1846,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE "
+  },
+  {
+    "FIELD1": 6643,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE "
+  },
+  {
+    "FIELD1": 6665,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE "
+  },
+  {
+    "FIELD1": 7635,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE "
+  },
+  {
+    "FIELD1": 8136,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE "
+  },
+  {
+    "FIELD1": 7114,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE DE GALI "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE DE LOS QUINTEROS "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "SAN JOSE DE OTAMENDI "
+  },
+  {
+    "FIELD1": 2754,
+    "FIELD2": "B",
+    "FIELD3": "SAN JUAN "
+  },
+  {
+    "FIELD1": 6500,
+    "FIELD2": "B",
+    "FIELD3": "SAN JUAN "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "SAN JUAN "
+  },
+  {
+    "FIELD1": 6530,
+    "FIELD2": "B",
+    "FIELD3": "SAN JUAN DE NELSON "
+  },
+  {
+    "FIELD1": 7613,
+    "FIELD2": "B",
+    "FIELD3": "SAN JULIAN "
+  },
+  {
+    "FIELD1": 1754,
+    "FIELD2": "B",
+    "FIELD3": "SAN JUSTO "
+  },
+  {
+    "FIELD1": 7118,
+    "FIELD2": "B",
+    "FIELD3": "SAN JUSTO "
+  },
+  {
+    "FIELD1": 7150,
+    "FIELD2": "B",
+    "FIELD3": "SAN LAUREANO "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "SAN MANUEL "
+  },
+  {
+    "FIELD1": 8164,
+    "FIELD2": "B",
+    "FIELD3": "SAN MARTIN DE TOURS "
+  },
+  {
+    "FIELD1": 6239,
+    "FIELD2": "B",
+    "FIELD3": "SAN MAURICIO "
+  },
+  {
+    "FIELD1": 7519,
+    "FIELD2": "B",
+    "FIELD3": "SAN MAYOL "
+  },
+  {
+    "FIELD1": 1663,
+    "FIELD2": "B",
+    "FIELD3": "SAN MIGUEL "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "SAN MIGUEL ARCANGEL "
+  },
+  {
+    "FIELD1": 7220,
+    "FIELD2": "B",
+    "FIELD3": "SAN MIGUEL DEL MONTE "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "SAN MIGUEL DEL MORO "
+  },
+  {
+    "FIELD1": 2900,
+    "FIELD2": "B",
+    "FIELD3": "SAN NICOLAS DE LOS ARROYOS "
+  },
+  {
+    "FIELD1": 7007,
+    "FIELD2": "B",
+    "FIELD3": "SAN PASCUAL "
+  },
+  {
+    "FIELD1": 6734,
+    "FIELD2": "B",
+    "FIELD3": "SAN PATRICIO "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "SAN PEDRO "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "SAN QUILCO "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "SAN RAFAEL "
+  },
+  {
+    "FIELD1": 2754,
+    "FIELD2": "B",
+    "FIELD3": "SAN RAMON "
+  },
+  {
+    "FIELD1": 6424,
+    "FIELD2": "B",
+    "FIELD3": "SAN RAMON "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "SAN RAMON "
+  },
+  {
+    "FIELD1": 7311,
+    "FIELD2": "B",
+    "FIELD3": "SAN RAMON DE ANCHORENA "
+  },
+  {
+    "FIELD1": 8154,
+    "FIELD2": "B",
+    "FIELD3": "SAN ROMAN "
+  },
+  {
+    "FIELD1": 6017,
+    "FIELD2": "B",
+    "FIELD3": "SAN ROQUE "
+  },
+  {
+    "FIELD1": 6623,
+    "FIELD2": "B",
+    "FIELD3": "SAN SEBASTIAN "
+  },
+  {
+    "FIELD1": 7521,
+    "FIELD2": "B",
+    "FIELD3": "SAN SEVERO "
+  },
+  {
+    "FIELD1": 7621,
+    "FIELD2": "B",
+    "FIELD3": "SAN SIMON "
+  },
+  {
+    "FIELD1": 7613,
+    "FIELD2": "B",
+    "FIELD3": "SAN VALENTIN "
+  },
+  {
+    "FIELD1": 1865,
+    "FIELD2": "B",
+    "FIELD3": "SAN VICENTE "
+  },
+  {
+    "FIELD1": 6233,
+    "FIELD2": "B",
+    "FIELD3": "SANSINENA "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ALICIA "
+  },
+  {
+    "FIELD1": 7503,
+    "FIELD2": "B",
+    "FIELD3": "SANTA CATALINA "
+  },
+  {
+    "FIELD1": 6463,
+    "FIELD2": "B",
+    "FIELD3": "SANTA CECILIA CENTRO "
+  },
+  {
+    "FIELD1": 6472,
+    "FIELD2": "B",
+    "FIELD3": "SANTA CECILIA NORTE "
+  },
+  {
+    "FIELD1": 6450,
+    "FIELD2": "B",
+    "FIELD3": "SANTA CECILIA SUD "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "SANTA CLARA DEL MAR "
+  },
+  {
+    "FIELD1": 7406,
+    "FIELD2": "B",
+    "FIELD3": "SANTA CLEMENTINA "
+  },
+  {
+    "FIELD1": 2761,
+    "FIELD2": "B",
+    "FIELD3": "SANTA COLOMA "
+  },
+  {
+    "FIELD1": 6700,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ELENA "
+  },
+  {
+    "FIELD1": 7414,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ELENA "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ELENA "
+  },
+  {
+    "FIELD1": 6241,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ELEODORA "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "SANTA FELICIA "
+  },
+  {
+    "FIELD1": 6459,
+    "FIELD2": "B",
+    "FIELD3": "SANTA INES "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "SANTA INES "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "SANTA IRENE "
+  },
+  {
+    "FIELD1": 6550,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ISABEL "
+  },
+  {
+    "FIELD1": 2935,
+    "FIELD2": "B",
+    "FIELD3": "SANTA LUCIA "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "SANTA LUISA "
+  },
+  {
+    "FIELD1": 6071,
+    "FIELD2": "B",
+    "FIELD3": "SANTA MARIA "
+  },
+  {
+    "FIELD1": 6535,
+    "FIELD2": "B",
+    "FIELD3": "SANTA MARIA BELLOQ "
+  },
+  {
+    "FIELD1": 6105,
+    "FIELD2": "B",
+    "FIELD3": "SANTA REGINA "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "SANTA RITA "
+  },
+  {
+    "FIELD1": 6437,
+    "FIELD2": "B",
+    "FIELD3": "SANTA RITA PDO GUAMINI "
+  },
+  {
+    "FIELD1": 1739,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ROSA "
+  },
+  {
+    "FIELD1": 1888,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ROSA "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ROSA "
+  },
+  {
+    "FIELD1": 7212,
+    "FIELD2": "B",
+    "FIELD3": "SANTA ROSA DE MINELLONO "
+  },
+  {
+    "FIELD1": 2912,
+    "FIELD2": "B",
+    "FIELD3": "SANTA TERESA "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "SANTA TERESA "
+  },
+  {
+    "FIELD1": 7107,
+    "FIELD2": "B",
+    "FIELD3": "SANTA TERESITA "
+  },
+  {
+    "FIELD1": 2701,
+    "FIELD2": "B",
+    "FIELD3": "SANTA TERESITA PERGAMINO "
+  },
+  {
+    "FIELD1": 7541,
+    "FIELD2": "B",
+    "FIELD3": "SANTA TRINIDAD "
+  },
+  {
+    "FIELD1": 6660,
+    "FIELD2": "B",
+    "FIELD3": "SANTIAGO GARBARINI "
+  },
+  {
+    "FIELD1": 7245,
+    "FIELD2": "B",
+    "FIELD3": "SANTIAGO LARRE "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "SANTO DOMINGO "
+  },
+  {
+    "FIELD1": 6530,
+    "FIELD2": "B",
+    "FIELD3": "SANTO TOMAS "
+  },
+  {
+    "FIELD1": 6538,
+    "FIELD2": "B",
+    "FIELD3": "SANTO TOMAS CHICO "
+  },
+  {
+    "FIELD1": 1676,
+    "FIELD2": "B",
+    "FIELD3": "SANTOS LUGARES "
+  },
+  {
+    "FIELD1": 6507,
+    "FIELD2": "B",
+    "FIELD3": "SANTOS UNZUE "
+  },
+  {
+    "FIELD1": 1872,
+    "FIELD2": "B",
+    "FIELD3": "SARANDI "
+  },
+  {
+    "FIELD1": 2721,
+    "FIELD2": "B",
+    "FIELD3": "SARASA "
+  },
+  {
+    "FIELD1": 6417,
+    "FIELD2": "B",
+    "FIELD3": "SATURNO "
+  },
+  {
+    "FIELD1": 8105,
+    "FIELD2": "B",
+    "FIELD3": "SAUCE CHICO "
+  },
+  {
+    "FIELD1": 7540,
+    "FIELD2": "B",
+    "FIELD3": "SAUCE CORTO "
+  },
+  {
+    "FIELD1": 8150,
+    "FIELD2": "B",
+    "FIELD3": "SAUCE GRANDE "
+  },
+  {
+    "FIELD1": 6030,
+    "FIELD2": "B",
+    "FIELD3": "SAUZALES "
+  },
+  {
+    "FIELD1": 7119,
+    "FIELD2": "B",
+    "FIELD3": "SEGUROLA "
+  },
+  {
+    "FIELD1": 6600,
+    "FIELD2": "B",
+    "FIELD3": "SEMINARIO PIO XII "
+  },
+  {
+    "FIELD1": 7101,
+    "FIELD2": "B",
+    "FIELD3": "SEVIGNE "
+  },
+  {
+    "FIELD1": 7316,
+    "FIELD2": "B",
+    "FIELD3": "SHAW "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "SIEMPRE VERDE "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "SIERRA CHICA "
+  },
+  {
+    "FIELD1": 8168,
+    "FIELD2": "B",
+    "FIELD3": "SIERRA DE LA VENTANA "
+  },
+  {
+    "FIELD1": 7601,
+    "FIELD2": "B",
+    "FIELD3": "SIERRA DE LOS PADRES "
+  },
+  {
+    "FIELD1": 7403,
+    "FIELD2": "B",
+    "FIELD3": "SIERRAS BAYAS "
+  },
+  {
+    "FIELD1": 6531,
+    "FIELD2": "B",
+    "FIELD3": "SMITH "
+  },
+  {
+    "FIELD1": 2709,
+    "FIELD2": "B",
+    "FIELD3": "SOL DE MAYO "
+  },
+  {
+    "FIELD1": 7243,
+    "FIELD2": "B",
+    "FIELD3": "SOL DE MAYO "
+  },
+  {
+    "FIELD1": 6064,
+    "FIELD2": "B",
+    "FIELD3": "SOLALE "
+  },
+  {
+    "FIELD1": 7151,
+    "FIELD2": "B",
+    "FIELD3": "SOLANET "
+  },
+  {
+    "FIELD1": 2764,
+    "FIELD2": "B",
+    "FIELD3": "SOLIS "
+  },
+  {
+    "FIELD1": 1885,
+    "FIELD2": "B",
+    "FIELD3": "SOURIGUES "
+  },
+  {
+    "FIELD1": 1741,
+    "FIELD2": "B",
+    "FIELD3": "SPERATTI "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "SPERONI "
+  },
+  {
+    "FIELD1": 8103,
+    "FIELD2": "B",
+    "FIELD3": "SPURR "
+  },
+  {
+    "FIELD1": 7536,
+    "FIELD2": "B",
+    "FIELD3": "STEGMANN "
+  },
+  {
+    "FIELD1": 8508,
+    "FIELD2": "B",
+    "FIELD3": "STROEDER "
+  },
+  {
+    "FIELD1": 6708,
+    "FIELD2": "B",
+    "FIELD3": "SUCRE "
+  },
+  {
+    "FIELD1": 6612,
+    "FIELD2": "B",
+    "FIELD3": "SUIPACHA "
+  },
+  {
+    "FIELD1": 6401,
+    "FIELD2": "B",
+    "FIELD3": "SUNDBLAD "
+  },
+  {
+    "FIELD1": 1766,
+    "FIELD2": "B",
+    "FIELD3": "TABLADA "
+  },
+  {
+    "FIELD1": 2743,
+    "FIELD2": "B",
+    "FIELD3": "TACUARI "
+  },
+  {
+    "FIELD1": 7633,
+    "FIELD2": "B",
+    "FIELD3": "TAMANGUEYU "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "TAMBO NUEVO "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "TANDIL "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "TAPALQUE "
+  },
+  {
+    "FIELD1": 1770,
+    "FIELD2": "B",
+    "FIELD3": "TAPIALES "
+  },
+  {
+    "FIELD1": 6721,
+    "FIELD2": "B",
+    "FIELD3": "TATAY "
+  },
+  {
+    "FIELD1": 7021,
+    "FIELD2": "B",
+    "FIELD3": "TEDIN URIBURU "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "TEJO GALETA "
+  },
+  {
+    "FIELD1": 1834,
+    "FIELD2": "B",
+    "FIELD3": "TEMPERLEY "
+  },
+  {
+    "FIELD1": 7401,
+    "FIELD2": "B",
+    "FIELD3": "TENIENTE CORONEL MIÑANA "
+  },
+  {
+    "FIELD1": 8144,
+    "FIELD2": "B",
+    "FIELD3": "TENIENTE ORIGONE "
+  },
+  {
+    "FIELD1": 8504,
+    "FIELD2": "B",
+    "FIELD3": "TERMAS LOS GAUCHOS "
+  },
+  {
+    "FIELD1": 6343,
+    "FIELD2": "B",
+    "FIELD3": "THAMES "
+  },
+  {
+    "FIELD1": 1648,
+    "FIELD2": "B",
+    "FIELD3": "TIGRE "
+  },
+  {
+    "FIELD1": 6457,
+    "FIELD2": "B",
+    "FIELD3": "TIMOTE "
+  },
+  {
+    "FIELD1": 7163,
+    "FIELD2": "B",
+    "FIELD3": "TIO DOMINGO "
+  },
+  {
+    "FIELD1": 2754,
+    "FIELD2": "B",
+    "FIELD3": "TODD "
+  },
+  {
+    "FIELD1": 7267,
+    "FIELD2": "B",
+    "FIELD3": "TOLDOS VIEJOS "
+  },
+  {
+    "FIELD1": 6601,
+    "FIELD2": "B",
+    "FIELD3": "TOMAS JOFRE "
+  },
+  {
+    "FIELD1": 7101,
+    "FIELD2": "B",
+    "FIELD3": "TORDILLO "
+  },
+  {
+    "FIELD1": 8160,
+    "FIELD2": "B",
+    "FIELD3": "TORNQUIST "
+  },
+  {
+    "FIELD1": 1635,
+    "FIELD2": "B",
+    "FIELD3": "TORO "
+  },
+  {
+    "FIELD1": 6703,
+    "FIELD2": "B",
+    "FIELD3": "TORRES "
+  },
+  {
+    "FIELD1": 1667,
+    "FIELD2": "B",
+    "FIELD3": "TORTUGUITAS "
+  },
+  {
+    "FIELD1": 6400,
+    "FIELD2": "B",
+    "FIELD3": "TRENQUE LAUQUEN "
+  },
+  {
+    "FIELD1": 6231,
+    "FIELD2": "B",
+    "FIELD3": "TRES ALGARROBOS "
+  },
+  {
+    "FIELD1": 7500,
+    "FIELD2": "B",
+    "FIELD3": "TRES ARROYOS "
+  },
+  {
+    "FIELD1": 8183,
+    "FIELD2": "B",
+    "FIELD3": "TRES CUERVOS "
+  },
+  {
+    "FIELD1": 6443,
+    "FIELD2": "B",
+    "FIELD3": "TRES LAGUNAS "
+  },
+  {
+    "FIELD1": 7100,
+    "FIELD2": "B",
+    "FIELD3": "TRES LEGUAS "
+  },
+  {
+    "FIELD1": 6409,
+    "FIELD2": "B",
+    "FIELD3": "TRES LOMAS "
+  },
+  {
+    "FIELD1": 8162,
+    "FIELD2": "B",
+    "FIELD3": "TRES PICOS "
+  },
+  {
+    "FIELD1": 6727,
+    "FIELD2": "B",
+    "FIELD3": "TRES SARGENTOS "
+  },
+  {
+    "FIELD1": 6053,
+    "FIELD2": "B",
+    "FIELD3": "TRIGALES "
+  },
+  {
+    "FIELD1": 1806,
+    "FIELD2": "B",
+    "FIELD3": "TRISTAN SUAREZ "
+  },
+  {
+    "FIELD1": 6071,
+    "FIELD2": "B",
+    "FIELD3": "TRIUNVIRATO "
+  },
+  {
+    "FIELD1": 1618,
+    "FIELD2": "B",
+    "FIELD3": "TRONCOS DEL TALAR "
+  },
+  {
+    "FIELD1": 6407,
+    "FIELD2": "B",
+    "FIELD3": "TRONGE "
+  },
+  {
+    "FIELD1": 6501,
+    "FIELD2": "B",
+    "FIELD3": "TROPEZON "
+  },
+  {
+    "FIELD1": 1664,
+    "FIELD2": "B",
+    "FIELD3": "TRUJUI "
+  },
+  {
+    "FIELD1": 1834,
+    "FIELD2": "B",
+    "FIELD3": "TURDERA "
+  },
+  {
+    "FIELD1": 6721,
+    "FIELD2": "B",
+    "FIELD3": "TUYUTI "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "UBALLES "
+  },
+  {
+    "FIELD1": 7151,
+    "FIELD2": "B",
+    "FIELD3": "UDAQUIOLA "
+  },
+  {
+    "FIELD1": 7609,
+    "FIELD2": "B",
+    "FIELD3": "UNIDAD TURISTICA CHAPADMALAL "
+  },
+  {
+    "FIELD1": 6553,
+    "FIELD2": "B",
+    "FIELD3": "URDAMPILLETA "
+  },
+  {
+    "FIELD1": 1815,
+    "FIELD2": "B",
+    "FIELD3": "URIBELARREA "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "URQUIZA "
+  },
+  {
+    "FIELD1": 2764,
+    "FIELD2": "B",
+    "FIELD3": "VAGUES "
+  },
+  {
+    "FIELD1": 6667,
+    "FIELD2": "B",
+    "FIELD3": "VALDEZ "
+  },
+  {
+    "FIELD1": 1822,
+    "FIELD2": "B",
+    "FIELD3": "VALENTIN ALSINA "
+  },
+  {
+    "FIELD1": 6401,
+    "FIELD2": "B",
+    "FIELD3": "VALENTIN GOMEZ "
+  },
+  {
+    "FIELD1": 7630,
+    "FIELD2": "B",
+    "FIELD3": "VALENZUELA ANTON "
+  },
+  {
+    "FIELD1": 7167,
+    "FIELD2": "B",
+    "FIELD3": "VALERIA DEL MAR "
+  },
+  {
+    "FIELD1": 6557,
+    "FIELD2": "B",
+    "FIELD3": "VALLIMANCA "
+  },
+  {
+    "FIELD1": 7301,
+    "FIELD2": "B",
+    "FIELD3": "VAÑA "
+  },
+  {
+    "FIELD1": 7519,
+    "FIELD2": "B",
+    "FIELD3": "VASQUEZ "
+  },
+  {
+    "FIELD1": 7118,
+    "FIELD2": "B",
+    "FIELD3": "VECINO "
+  },
+  {
+    "FIELD1": 6030,
+    "FIELD2": "B",
+    "FIELD3": "VEDIA "
+  },
+  {
+    "FIELD1": 7003,
+    "FIELD2": "B",
+    "FIELD3": "VELA "
+  },
+  {
+    "FIELD1": 7305,
+    "FIELD2": "B",
+    "FIELD3": "VELLOSO "
+  },
+  {
+    "FIELD1": 8117,
+    "FIELD2": "B",
+    "FIELD3": "VENANCIO "
+  },
+  {
+    "FIELD1": 7135,
+    "FIELD2": "B",
+    "FIELD3": "VERGARA "
+  },
+  {
+    "FIELD1": 1917,
+    "FIELD2": "B",
+    "FIELD3": "VERONICA "
+  },
+  {
+    "FIELD1": 8180,
+    "FIELD2": "B",
+    "FIELD3": "VIBORAS "
+  },
+  {
+    "FIELD1": 1808,
+    "FIELD2": "B",
+    "FIELD3": "VICENTE CASARES "
+  },
+  {
+    "FIELD1": 1638,
+    "FIELD2": "B",
+    "FIELD3": "VICENTE LOPEZ "
+  },
+  {
+    "FIELD1": 7300,
+    "FIELD2": "B",
+    "FIELD3": "VICENTE PEREDA "
+  },
+  {
+    "FIELD1": 1644,
+    "FIELD2": "B",
+    "FIELD3": "VICTORIA "
+  },
+  {
+    "FIELD1": 6411,
+    "FIELD2": "B",
+    "FIELD3": "VICTORINO DE LA PLAZA "
+  },
+  {
+    "FIELD1": 1915,
+    "FIELD2": "B",
+    "FIELD3": "VIEYTES "
+  },
+  {
+    "FIELD1": 6070,
+    "FIELD2": "B",
+    "FIELD3": "VIGELENCIA "
+  },
+  {
+    "FIELD1": 7208,
+    "FIELD2": "B",
+    "FIELD3": "VILELA "
+  },
+  {
+    "FIELD1": 1607,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ADELINA "
+  },
+  {
+    "FIELD1": 1816,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ADRIANA "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "VILLA AGUEDA "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ALDEANITA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ANGUS "
+  },
+  {
+    "FIELD1": 7540,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ARCADIA "
+  },
+  {
+    "FIELD1": 1633,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ASTOLFI "
+  },
+  {
+    "FIELD1": 1653,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BALLESTER "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BELGRANO "
+  },
+  {
+    "FIELD1": 1682,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BOSCH "
+  },
+  {
+    "FIELD1": 6471,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BRANDA "
+  },
+  {
+    "FIELD1": 1888,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BROWN "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BUENOS AIRES "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BUIDE "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "VILLA BURGOS "
+  },
+  {
+    "FIELD1": 7005,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CACIQUE "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CAPDEPONT "
+  },
+  {
+    "FIELD1": 6555,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CAROLA "
+  },
+  {
+    "FIELD1": 7505,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CARUCHA "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CASTELAR EST ERIZE "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CENTENARIO "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CERRITO "
+  },
+  {
+    "FIELD1": 7109,
+    "FIELD2": "B",
+    "FIELD3": "VILLA CLELIA "
+  },
+  {
+    "FIELD1": 7607,
+    "FIELD2": "B",
+    "FIELD3": "VILLA COPACABANA "
+  },
+  {
+    "FIELD1": 2718,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DA FONTE "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DAZA "
+  },
+  {
+    "FIELD1": 1614,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DE MAYO "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DEL MAR "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DELFINA "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DEPIETRI "
+  },
+  {
+    "FIELD1": 6500,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DIAMANTINA "
+  },
+  {
+    "FIELD1": 7630,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DIAZ VELEZ "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DOMINGO PRONSATO "
+  },
+  {
+    "FIELD1": 1874,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DOMINICO "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA DUFAU "
+  },
+  {
+    "FIELD1": 8512,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ELENA "
+  },
+  {
+    "FIELD1": 1894,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ELISA "
+  },
+  {
+    "FIELD1": 1884,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ESPAÑA "
+  },
+  {
+    "FIELD1": 6712,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ESPIL "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA FLORESTA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "VILLA FLORIDA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "VILLA FOX "
+  },
+  {
+    "FIELD1": 6058,
+    "FIELD2": "B",
+    "FIELD3": "VILLA FRANCIA "
+  },
+  {
+    "FIELD1": 6706,
+    "FIELD2": "B",
+    "FIELD3": "VILLA FRANCIA "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA GALICIA "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "VILLA GENERAL ARIAS "
+  },
+  {
+    "FIELD1": 7165,
+    "FIELD2": "B",
+    "FIELD3": "VILLA GESELL "
+  },
+  {
+    "FIELD1": 1713,
+    "FIELD2": "B",
+    "FIELD3": "VILLA GOBERNADOR UDAONDO "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "VILLA GODOY "
+  },
+  {
+    "FIELD1": 2912,
+    "FIELD2": "B",
+    "FIELD3": "VILLA GRAL SAVIO EST SANCHEZ "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "VILLA HARDING GREEN "
+  },
+  {
+    "FIELD1": 8101,
+    "FIELD2": "B",
+    "FIELD3": "VILLA HERMINIA "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "VILLA IGOLLO "
+  },
+  {
+    "FIELD1": 1752,
+    "FIELD2": "B",
+    "FIELD3": "VILLA INSUPERABLE "
+  },
+  {
+    "FIELD1": 8126,
+    "FIELD2": "B",
+    "FIELD3": "VILLA IRIS "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ITALIA "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ITALIA "
+  },
+  {
+    "FIELD1": 7020,
+    "FIELD2": "B",
+    "FIELD3": "VILLA JUAREZ "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LA CHECHELA "
+  },
+  {
+    "FIELD1": 1881,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LA FLORIDA "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LAURA "
+  },
+  {
+    "FIELD1": 7000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LAZA "
+  },
+  {
+    "FIELD1": 2946,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LEANDRA "
+  },
+  {
+    "FIELD1": 2761,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LIA "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LIBRE "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LOMA "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LORETO "
+  },
+  {
+    "FIELD1": 1754,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LUZURIAGA "
+  },
+  {
+    "FIELD1": 1672,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LYNCH "
+  },
+  {
+    "FIELD1": 6553,
+    "FIELD2": "B",
+    "FIELD3": "VILLA LYNCH PUEYRREDON "
+  },
+  {
+    "FIELD1": 8109,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MAIO "
+  },
+  {
+    "FIELD1": 8185,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MARGARITA "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MARIA "
+  },
+  {
+    "FIELD1": 1603,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MARTELLI "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MASSONI "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MAYOR "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MITRE "
+  },
+  {
+    "FIELD1": 7318,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MONICA "
+  },
+  {
+    "FIELD1": 6625,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MOQUEHUA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "VILLA MOSCONI "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA NOCITO "
+  },
+  {
+    "FIELD1": 1858,
+    "FIELD2": "B",
+    "FIELD3": "VILLA NUMANCIA "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA OBRERA "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA OLGA GRUMBEIN "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ORTEGA "
+  },
+  {
+    "FIELD1": 6628,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ORTIZ "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PENOTTI "
+  },
+  {
+    "FIELD1": 2812,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PRECEPTOR M ROBLES "
+  },
+  {
+    "FIELD1": 6703,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PRECEPTOR MANUEL CRUZ "
+  },
+  {
+    "FIELD1": 2700,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PROGRESO "
+  },
+  {
+    "FIELD1": 2705,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PROGRESO "
+  },
+  {
+    "FIELD1": 7414,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PUEBLO NUEVO "
+  },
+  {
+    "FIELD1": 7631,
+    "FIELD2": "B",
+    "FIELD3": "VILLA PUERTO QUEQUEN "
+  },
+  {
+    "FIELD1": 1674,
+    "FIELD2": "B",
+    "FIELD3": "VILLA RAFFO "
+  },
+  {
+    "FIELD1": 2914,
+    "FIELD2": "B",
+    "FIELD3": "VILLA RAMALLO "
+  },
+  {
+    "FIELD1": 2914,
+    "FIELD2": "B",
+    "FIELD3": "VILLA RAMALLO EST FFCC "
+  },
+  {
+    "FIELD1": 8146,
+    "FIELD2": "B",
+    "FIELD3": "VILLA RIO CHICO "
+  },
+  {
+    "FIELD1": 7101,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ROCH "
+  },
+  {
+    "FIELD1": 1631,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ROSA "
+  },
+  {
+    "FIELD1": 8103,
+    "FIELD2": "B",
+    "FIELD3": "VILLA ROSAS "
+  },
+  {
+    "FIELD1": 6705,
+    "FIELD2": "B",
+    "FIELD3": "VILLA RUIZ "
+  },
+  {
+    "FIELD1": 6101,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SABOYA "
+  },
+  {
+    "FIELD1": 1674,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SAENZ PEÑA "
+  },
+  {
+    "FIELD1": 6720,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SAN ALBERTO "
+  },
+  {
+    "FIELD1": 2743,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SAN JOSE "
+  },
+  {
+    "FIELD1": 7203,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SAN PEDRO "
+  },
+  {
+    "FIELD1": 8000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SANCHEZ ELIA "
+  },
+  {
+    "FIELD1": 2740,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SANGUINETTI "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SANTA MARIA "
+  },
+  {
+    "FIELD1": 1688,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SANTOS TESEI "
+  },
+  {
+    "FIELD1": 6511,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SANZ "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SARITA "
+  },
+  {
+    "FIELD1": 1706,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SARMIENTO "
+  },
+  {
+    "FIELD1": 6235,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SAUCE "
+  },
+  {
+    "FIELD1": 6430,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SAURI "
+  },
+  {
+    "FIELD1": 6403,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SENA "
+  },
+  {
+    "FIELD1": 8103,
+    "FIELD2": "B",
+    "FIELD3": "VILLA SERRA "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA TALLERES "
+  },
+  {
+    "FIELD1": 2944,
+    "FIELD2": "B",
+    "FIELD3": "VILLA TERESA "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA TRIANGULO "
+  },
+  {
+    "FIELD1": 1625,
+    "FIELD2": "B",
+    "FIELD3": "VILLA VALLIER "
+  },
+  {
+    "FIELD1": 1888,
+    "FIELD2": "B",
+    "FIELD3": "VILLA VATTEONE "
+  },
+  {
+    "FIELD1": 8160,
+    "FIELD2": "B",
+    "FIELD3": "VILLA VENTANA "
+  },
+  {
+    "FIELD1": 1629,
+    "FIELD2": "B",
+    "FIELD3": "VILLA VERDE "
+  },
+  {
+    "FIELD1": 7600,
+    "FIELD2": "B",
+    "FIELD3": "VILLA VIGNOLO "
+  },
+  {
+    "FIELD1": 6000,
+    "FIELD2": "B",
+    "FIELD3": "VILLA YORK "
+  },
+  {
+    "FIELD1": 6740,
+    "FIELD2": "B",
+    "FIELD3": "VILLAFAÑE "
+  },
+  {
+    "FIELD1": 2930,
+    "FIELD2": "B",
+    "FIELD3": "VILLAIGRILLO "
+  },
+  {
+    "FIELD1": 8512,
+    "FIELD2": "B",
+    "FIELD3": "VILLALONGA "
+  },
+  {
+    "FIELD1": 7225,
+    "FIELD2": "B",
+    "FIELD3": "VILLANUEVA "
+  },
+  {
+    "FIELD1": 1731,
+    "FIELD2": "B",
+    "FIELD3": "VILLARS "
+  },
+  {
+    "FIELD1": 2754,
+    "FIELD2": "B",
+    "FIELD3": "VIÑA "
+  },
+  {
+    "FIELD1": 1763,
+    "FIELD2": "B",
+    "FIELD3": "VIRREY DEL PINO "
+  },
+  {
+    "FIELD1": 1646,
+    "FIELD2": "B",
+    "FIELD3": "VIRREYES "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "VISTA ALEGRE "
+  },
+  {
+    "FIELD1": 7130,
+    "FIELD2": "B",
+    "FIELD3": "VITEL "
+  },
+  {
+    "FIELD1": 7612,
+    "FIELD2": "B",
+    "FIELD3": "VIVORATA "
+  },
+  {
+    "FIELD1": 6064,
+    "FIELD2": "B",
+    "FIELD3": "VOLTA "
+  },
+  {
+    "FIELD1": 7412,
+    "FIELD2": "B",
+    "FIELD3": "VOLUNTAD "
+  },
+  {
+    "FIELD1": 2931,
+    "FIELD2": "B",
+    "FIELD3": "VUELTA DE OBLIGADO "
+  },
+  {
+    "FIELD1": 6435,
+    "FIELD2": "B",
+    "FIELD3": "VUELTA DE ZAPATA "
+  },
+  {
+    "FIELD1": 6646,
+    "FIELD2": "B",
+    "FIELD3": "WARNES "
+  },
+  {
+    "FIELD1": 1875,
+    "FIELD2": "B",
+    "FIELD3": "WILDE "
+  },
+  {
+    "FIELD1": 1686,
+    "FIELD2": "B",
+    "FIELD3": "WILLIAM MORRIS "
+  },
+  {
+    "FIELD1": 7303,
+    "FIELD2": "B",
+    "FIELD3": "YERBAS "
+  },
+  {
+    "FIELD1": 7605,
+    "FIELD2": "B",
+    "FIELD3": "YRAIZOS "
+  },
+  {
+    "FIELD1": 6443,
+    "FIELD2": "B",
+    "FIELD3": "YUTUYACO "
+  },
+  {
+    "FIELD1": 1727,
+    "FIELD2": "B",
+    "FIELD3": "ZAMUDIO "
+  },
+  {
+    "FIELD1": 7249,
+    "FIELD2": "B",
+    "FIELD3": "ZAPIOLA "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "ZARATE "
+  },
+  {
+    "FIELD1": 6018,
+    "FIELD2": "B",
+    "FIELD3": "ZAVALIA "
+  },
+  {
+    "FIELD1": 1888,
+    "FIELD2": "B",
+    "FIELD3": "ZEBALLOS "
+  },
+  {
+    "FIELD1": 1627,
+    "FIELD2": "B",
+    "FIELD3": "ZELAYA "
+  },
+  {
+    "FIELD1": 7226,
+    "FIELD2": "B",
+    "FIELD3": "ZENON VIDELA DORNA "
+  },
+  {
+    "FIELD1": 7545,
+    "FIELD2": "B",
+    "FIELD3": "ZENTENA "
+  },
+  {
+    "FIELD1": 7530,
+    "FIELD2": "B",
+    "FIELD3": "ZOILO PERALTA "
+  },
+  {
+    "FIELD1": 8103,
+    "FIELD2": "B",
+    "FIELD3": "ZONA CANGREJALES "
+  },
+  {
+    "FIELD1": 2804,
+    "FIELD2": "B",
+    "FIELD3": "ZONA DELTA CAMPANA "
+  },
+  {
+    "FIELD1": 1647,
+    "FIELD2": "B",
+    "FIELD3": "ZONA DELTA SAN FERNANDO "
+  },
+  {
+    "FIELD1": 1649,
+    "FIELD2": "B",
+    "FIELD3": "ZONA DELTA TIGRE "
+  },
+  {
+    "FIELD1": 2800,
+    "FIELD2": "B",
+    "FIELD3": "ZONA DELTA ZARATE "
+  },
+  {
+    "FIELD1": 8151,
+    "FIELD2": "B",
+    "FIELD3": "ZUBIAURRE "
+  }
+]
