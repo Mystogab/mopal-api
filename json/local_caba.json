@@ -1,194 +1,194 @@
 [
   {
     "id": "3961",
-    "nombre": "Agronomia"
+    "name": "Agronomia"
   },
   {
     "id": "3962",
-    "nombre": "Almagro"
+    "name": "Almagro"
   },
   {
     "id": "3963",
-    "nombre": "Balvanera"
+    "name": "Balvanera"
   },
   {
     "id": "3964",
-    "nombre": "Barracas"
+    "name": "Barracas"
   },
   {
     "id": "3965",
-    "nombre": "Belgrano"
+    "name": "Belgrano"
   },
   {
     "id": "3966",
-    "nombre": "Boedo"
+    "name": "Boedo"
   },
   {
     "id": "3967",
-    "nombre": "Caballito"
+    "name": "Caballito"
   },
   {
     "id": "3968",
-    "nombre": "Chacarita"
+    "name": "Chacarita"
   },
   {
     "id": "3969",
-    "nombre": "Coghlan"
+    "name": "Coghlan"
   },
   {
     "id": "3970",
-    "nombre": "Colegiales"
+    "name": "Colegiales"
   },
   {
     "id": "3971",
-    "nombre": "Constitucion"
+    "name": "Constitucion"
   },
   {
     "id": "3972",
-    "nombre": "Flores"
+    "name": "Flores"
   },
   {
     "id": "3973",
-    "nombre": "Floresta"
+    "name": "Floresta"
   },
   {
     "id": "3974",
-    "nombre": "La Boca"
+    "name": "La Boca"
   },
   {
     "id": "3975",
-    "nombre": "Liniers"
+    "name": "Liniers"
   },
   {
     "id": "3976",
-    "nombre": "Mataderos"
+    "name": "Mataderos"
   },
   {
     "id": "3977",
-    "nombre": "Monserrat"
+    "name": "Monserrat"
   },
   {
     "id": "3978",
-    "nombre": "Monte Castro"
+    "name": "Monte Castro"
   },
   {
     "id": "3979",
-    "nombre": "Nueva Pompeya"
+    "name": "Nueva Pompeya"
   },
   {
     "id": "3980",
-    "nombre": "Nuñez"
+    "name": "Nuñez"
   },
   {
     "id": "3981",
-    "nombre": "Palermo"
+    "name": "Palermo"
   },
   {
     "id": "3982",
-    "nombre": "Parque Avellaneda"
+    "name": "Parque Avellaneda"
   },
   {
     "id": "3983",
-    "nombre": "Parque Chacabuco"
+    "name": "Parque Chacabuco"
   },
   {
     "id": "3984",
-    "nombre": "Parque Chas"
+    "name": "Parque Chas"
   },
   {
     "id": "3985",
-    "nombre": "Parque Patricios"
+    "name": "Parque Patricios"
   },
   {
     "id": "3986",
-    "nombre": "Paternal"
+    "name": "Paternal"
   },
   {
     "id": "3987",
-    "nombre": "Puerto Madero"
+    "name": "Puerto Madero"
   },
   {
     "id": "3988",
-    "nombre": "Recoleta"
+    "name": "Recoleta"
   },
   {
     "id": "1",
-    "nombre": "Retiro"
+    "name": "Retiro"
   },
   {
     "id": "3989",
-    "nombre": "Saavedra"
+    "name": "Saavedra"
   },
   {
     "id": "3990",
-    "nombre": "San Cristobal"
+    "name": "San Cristobal"
   },
   {
     "id": "3991",
-    "nombre": "San Nicolas"
+    "name": "San Nicolas"
   },
   {
     "id": "3992",
-    "nombre": "San Telmo"
+    "name": "San Telmo"
   },
   {
     "id": "3994",
-    "nombre": "Velez Sarsfield"
+    "name": "Velez Sarsfield"
   },
   {
     "id": "3993",
-    "nombre": "Versalles"
+    "name": "Versalles"
   },
   {
     "id": "3996",
-    "nombre": "Villa Crespo"
+    "name": "Villa Crespo"
   },
   {
     "id": "3997",
-    "nombre": "Villa Del Parque"
+    "name": "Villa Del Parque"
   },
   {
     "id": "3998",
-    "nombre": "Villa Devoto"
+    "name": "Villa Devoto"
   },
   {
     "id": "3995",
-    "nombre": "Villa Gral Mitre"
+    "name": "Villa Gral Mitre"
   },
   {
     "id": "3999",
-    "nombre": "Villa Lugano"
+    "name": "Villa Lugano"
   },
   {
     "id": "4000",
-    "nombre": "Villa Luro"
+    "name": "Villa Luro"
   },
   {
     "id": "4001",
-    "nombre": "Villa Ortuzar"
+    "name": "Villa Ortuzar"
   },
   {
     "id": "4002",
-    "nombre": "Villa Pueyrredon"
+    "name": "Villa Pueyrredon"
   },
   {
     "id": "4003",
-    "nombre": "Villa Real"
+    "name": "Villa Real"
   },
   {
     "id": "4004",
-    "nombre": "Villa Riachuelo"
+    "name": "Villa Riachuelo"
   },
   {
     "id": "4005",
-    "nombre": "Villa Santa Rita"
+    "name": "Villa Santa Rita"
   },
   {
     "id": "4006",
-    "nombre": "Villa Soldati"
+    "name": "Villa Soldati"
   },
   {
     "id": "4007",
-    "nombre": "Villa Urquiza"
+    "name": "Villa Urquiza"
   }
 ]
