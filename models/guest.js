@@ -17,6 +17,8 @@ const userSchema = new Schema({
   easterKind: {type: String, required: true},
   sex: {type: String, required: true},
   local: {type: String, required: true},
+  subLocal: {type: String, required: false},
+  mail: {type: String, required: false},
   marital: {type: String, required: true},
   childs: {type: Number, required: true},
   subscribedBy: {type: String, required: true}

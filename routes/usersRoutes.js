@@ -64,7 +64,7 @@ router.post('/guest', authCheck, async (req, res) => {
   //real work:
   try {
     const savedGuest = await guestService.saveGuest(guest);
-    res.json({msg: 'invitado guardado', savedGuest});
+    res.json({msg: 'Invitado Guardado Correctamente', savedGuest});
   } catch (e) {
     res.status(503).json(e);
   }
@@ -77,7 +77,7 @@ router.put('/guest', authCheck, async (req, res) => {
 
   try {
     const effUpdatedGuest = await guestService.update(updatedGuest);
-    res.json(effUpdatedGuest);
+    res.json({msg: 'Invitado Actualizado Correctamente' ,effUpdatedGuest});
   } catch (e) {
     res.status(503).json(e);
   }
