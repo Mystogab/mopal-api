@@ -60,7 +60,16 @@ const amountOfFirstEaster = async () => {
   }
 };
 
-service.getStadistics = () => {
+const amountOfOrants = async () => {
+  const result = await Guest.count({ walkIn: { $not: { $in:['', 'OTHER', 'NONE'] } } });
+  return {
+    msg: 'Cantidad de hermanos que ya caminan en alguna comunidad: ',
+    value: result
+  }
+};
+
+
+service.getStadistics = async () => {
   const amountOfGuestP = amountOfGuest();
   const amountOfMaleGuestP = amountOfMaleGuest();
   const amountOfFemaleGuestP = amountOfFemaleGuest();
@@ -68,6 +77,13 @@ service.getStadistics = () => {
   const amountOfFirstEasterP = amountOfFirstEaster();
   const amountOfChildsP = amountOfChilds();
   const amountOfGrowP = amountOfGrow();
+  const amountOfOrantsP = amountOfOrants();
+
+  const amountOfTotalForCenter = Promise.resolve((await amountOfNewBrothersP).value + (await amountOfOrantsP).value)
+    .then(result => ({
+      msg: 'Cantidad de hermanos orantes mas hermanos nuevos: ',
+      value: result
+    }));
 
   return Promise.all([
     amountOfGuestP,
@@ -76,7 +92,9 @@ service.getStadistics = () => {
     amountOfNewBrothersP,
     amountOfFirstEasterP,
     amountOfChildsP,
-    amountOfGrowP
+    amountOfGrowP,
+    amountOfOrantsP,
+    amountOfTotalForCenter
   ]);
 };
 
